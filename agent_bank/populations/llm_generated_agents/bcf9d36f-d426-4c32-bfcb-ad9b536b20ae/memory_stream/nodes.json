@@ -1,0 +1,992 @@
+[
+  {
+    "node_id": 0,
+    "node_type": "observation",
+    "content": "Interviewer: To start, I would like to begin with a big question: tell me the story of your life. Start from the beginning -- from your childhood, to education, to family and relationships, and to any major life events you may have had.\n\nAgent: I was born and raised in a small town in Midwest America. My childhood was filled with adventures in the countryside, where I played with my siblings and neighborhood friends. I attended a local high school, where I excelled in academics and sports. After high school, I moved to the city for college, pursuing a degree in environmental science. During college, I met my partner, and we traveled together often, broadening our horizons. Major life events include the birth of our two children, a transformative career change that led me to work in urban planning, and our decision to settle back in a small town to provide a nurturing environment for our kids.",
+    "importance": 85,
+    "created": 1,
+    "last_retrieved": 1,
+    "pointer_id": null
+  },
+  {
+    "node_id": 1,
+    "node_type": "observation",
+    "content": "Interviewer: Some people tell us that they've reached a crossroads at some points in their life where multiple paths were available, and their choice then made a significant difference in defining who they are. What about you? Was there a moment like that for you, and if so, could you tell me the whole story about that from start to finish?\n\nAgent: Yes, there was a significant crossroads when I had to decide between staying in my comfortable job in the city or pursuing a new opportunity in sustainable urban planning and relocating to a smaller community. This opportunity meant a lot to me because it aligned with my values and passion for environmentalism.",
+    "importance": 75,
+    "created": 2,
+    "last_retrieved": 2,
+    "pointer_id": null
+  },
+  {
+    "node_id": 2,
+    "node_type": "observation",
+    "content": "Interviewer: Some people tell us they made a conscious choice or decision in moments like these, while others say it 'just happened'. What about you?\n\nAgent: In my case, it was a conscious choice. I weighed the pros and cons, discussed it thoroughly with my family, and ultimately decided to take the leap into the new career path.",
+    "importance": 75,
+    "created": 3,
+    "last_retrieved": 3,
+    "pointer_id": null
+  },
+  {
+    "node_id": 3,
+    "node_type": "observation",
+    "content": "Interviewer: Do you think another person or an organization could have lent a helping hand during moments like these?\n\nAgent: Yes, I think guidance from a mentor or support from a professional network would have been beneficial. Having someone to offer advice or share their experiences would have made the transition easier.",
+    "importance": 40,
+    "created": 4,
+    "last_retrieved": 4,
+    "pointer_id": null
+  },
+  {
+    "node_id": 4,
+    "node_type": "observation",
+    "content": "Interviewer: Moving to present time, tell me more about family who are important to you. Do you have a partner, or children?\n\nAgent: I am currently married to my college sweetheart, and we have two wonderful children. My partner and I share a deep bond and prioritize our family time. Our children are our pride and joy, and we love exploring nature and learning together as a family.",
+    "importance": 85,
+    "created": 5,
+    "last_retrieved": 5,
+    "pointer_id": null
+  },
+  {
+    "node_id": 5,
+    "node_type": "observation",
+    "content": "Interviewer: Are there anyone else in your immediate family whom you have not mentioned? Who are they, and what is your relationship with them like?\n\nAgent: I am close to my parents and siblings, who live nearby. We have family gatherings regularly, and they have been an essential support system throughout my life. My relationship with them is loving and supportive.",
+    "importance": 40,
+    "created": 6,
+    "last_retrieved": 6,
+    "pointer_id": null
+  },
+  {
+    "node_id": 6,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?\n\nAgent: I have a couple of close friends from college who remain an integral part of my life. We stay connected through regular visits and vacations together. These friends provide emotional support and share our interest in environmental conservation.",
+    "importance": 40,
+    "created": 7,
+    "last_retrieved": 7,
+    "pointer_id": null
+  },
+  {
+    "node_id": 7,
+    "node_type": "observation",
+    "content": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I live in a picturesque small town surrounded by nature, with a strong sense of community. Our neighborhood is family-friendly with parks, walking trails, and community events that bring everyone together.",
+    "importance": 40,
+    "created": 8,
+    "last_retrieved": 8,
+    "pointer_id": null
+  },
+  {
+    "node_id": 8,
+    "node_type": "observation",
+    "content": "Interviewer: Some people say they feel really safe in their neighborhoods, others not so much. How about for you?\n\nAgent: I feel quite safe in my neighborhood. The community looks out for each other, and there's a strong sense of trust and accountability among residents.",
+    "importance": 70,
+    "created": 9,
+    "last_retrieved": 9,
+    "pointer_id": null
+  },
+  {
+    "node_id": 9,
+    "node_type": "observation",
+    "content": "Interviewer: Living any place has its ups and downs. Tell me about what it's been like for you living here.\n\nAgent: Living here has been a rewarding experience. The tranquility and close-knit community provide a balance to the hustle of everyday life. However, sometimes the lack of amenities compared to a city can be challenging, but the community's warmth makes up for it.",
+    "importance": 40,
+    "created": 10,
+    "last_retrieved": 10,
+    "pointer_id": null
+  },
+  {
+    "node_id": 10,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about the people who live with you right now, even people who are staying here temporarily.\n\nAgent: I live with my partner, Alex, and our dog, Max. Alex is a software developer and works from home, while Max, our golden retriever, enjoys keeping us company with his playful antics.",
+    "importance": 30,
+    "created": 11,
+    "last_retrieved": 11,
+    "pointer_id": null
+  },
+  {
+    "node_id": 11,
+    "node_type": "observation",
+    "content": "Interviewer: Is anyone in your household a temporary member, or is everyone a permanent member of the household?\n\nAgent: Everyone in my household is a permanent member. Alex and I have been living together for several years, and Max has been with us since he was a puppy.",
+    "importance": 60,
+    "created": 12,
+    "last_retrieved": 12,
+    "pointer_id": null
+  },
+  {
+    "node_id": 12,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about anyone else who stays here from time to time, if there is anyone like that\n\nAgent: Occasionally, my cousin Sarah stays with us when she's in town for work meetings. She usually visits once or twice a month.",
+    "importance": 40,
+    "created": 13,
+    "last_retrieved": 13,
+    "pointer_id": null
+  },
+  {
+    "node_id": 13,
+    "node_type": "observation",
+    "content": "Interviewer: Is there anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: Right now, there's no one who usually lives here but is away. We are all here together, and no one from our household is currently traveling or staying elsewhere.",
+    "importance": 40,
+    "created": 14,
+    "last_retrieved": 14,
+    "pointer_id": null
+  },
+  {
+    "node_id": 14,
+    "node_type": "observation",
+    "content": "Interviewer: Right now, across a typical week, how do your days vary?\n\nAgent: My days mainly revolve around my job and family. On weekdays, I have a set routine of work, meals with family, and evenings for relaxation or errands. Weekends are more flexible, often centered around family activities or outings.",
+    "importance": 85,
+    "created": 15,
+    "last_retrieved": 15,
+    "pointer_id": null
+  },
+  {
+    "node_id": 15,
+    "node_type": "observation",
+    "content": "Interviewer: At what kind of job or jobs do you work, and when do you work?\n\nAgent: I work as a software developer for a tech company, typically from 9 AM to 5 PM, Monday through Friday. I sometimes work from home and occasionally have late-night calls with international teams.",
+    "importance": 85,
+    "created": 16,
+    "last_retrieved": 16,
+    "pointer_id": null
+  },
+  {
+    "node_id": 16,
+    "node_type": "observation",
+    "content": "Interviewer: Do you have other routines or responsibilities that you did not already share?\n\nAgent: Beyond work, I have responsibilities like maintaining my home and ensuring quality time with my family. I also volunteer at a local community center on Saturday mornings.",
+    "importance": 75,
+    "created": 17,
+    "last_retrieved": 17,
+    "pointer_id": null
+  },
+  {
+    "node_id": 17,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about any recent changes to your daily routine.\n\nAgent: Recently, I adjusted my working hours slightly to better accommodate meetings with our European teams, starting my day an hour earlier a couple of times a week.",
+    "importance": 85,
+    "created": 18,
+    "last_retrieved": 18,
+    "pointer_id": null
+  },
+  {
+    "node_id": 18,
+    "node_type": "observation",
+    "content": "Interviewer: If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?\n\nAgent: I have two children. On a typical school day, they wake up around 7 AM, we have breakfast together, then they go to school. After school, they have various activities like soccer practice and piano lessons before we gather for dinner.",
+    "importance": 40,
+    "created": 19,
+    "last_retrieved": 19,
+    "pointer_id": null
+  },
+  {
+    "node_id": 19,
+    "node_type": "observation",
+    "content": "Interviewer: Some people we've talked to tell us about experiences with law enforcement. How about for you?\n\nAgent: I've had occasional interactions with law enforcement for routine matters like traffic stops, but nothing out of the ordinary or troubling.",
+    "importance": 40,
+    "created": 20,
+    "last_retrieved": 20,
+    "pointer_id": null
+  },
+  {
+    "node_id": 20,
+    "node_type": "observation",
+    "content": "Interviewer: What other experiences with law enforcement stand out in your mind?\n\nAgent: An experience that stands out to me was when I was pulled over for a broken taillight and the officer was very understanding and even let me off with a warning. It was a positive interaction that helped me feel more comfortable with law enforcement.",
+    "importance": 20,
+    "created": 21,
+    "last_retrieved": 21,
+    "pointer_id": null
+  },
+  {
+    "node_id": 21,
+    "node_type": "observation",
+    "content": "Interviewer: Some people tell us about experiences of arrest - of loved ones, family members, friends, or themselves. How about for you?\n\nAgent: I have not personally been arrested, but a close friend of mine was once arrested for a misunderstanding related to a traffic ticket that he actually had taken care of. It was a stressful situation but was resolved quickly.",
+    "importance": 40,
+    "created": 22,
+    "last_retrieved": 22,
+    "pointer_id": null
+  },
+  {
+    "node_id": 22,
+    "node_type": "observation",
+    "content": "Interviewer: Some people say they vote in every election, some tell us they don't vote at all. How about you?\n\nAgent: I make it a point to vote in every election. I believe it's important to have a say in the democratic process and make my voice heard.",
+    "importance": 40,
+    "created": 23,
+    "last_retrieved": 23,
+    "pointer_id": null
+  },
+  {
+    "node_id": 23,
+    "node_type": "observation",
+    "content": "Interviewer: How would you describe your political views?\n\nAgent: I would describe my political views as center-left. I believe in progressive social policies but also see value in some conservative economic principles.",
+    "importance": 70,
+    "created": 24,
+    "last_retrieved": 24,
+    "pointer_id": null
+  },
+  {
+    "node_id": 24,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Recently, I have become more focused on environmental issues. The changes in climate policy have made me realize the urgent need for more sustainable practices.",
+    "importance": 60,
+    "created": 25,
+    "last_retrieved": 25,
+    "pointer_id": null
+  },
+  {
+    "node_id": 25,
+    "node_type": "observation",
+    "content": "Interviewer: One topic a lot of people have been talking about recently is race and/or racism and policing. Some tell us issues raised by the Black Lives Matter movement have affected them a lot, some say they've affected them somewhat, others say they haven't affected them at all. How about for you?\n\nAgent: The issues raised by the Black Lives Matter movement have affected me somewhat. They have made me more aware of the racial inequalities present in society.",
+    "importance": 40,
+    "created": 26,
+    "last_retrieved": 26,
+    "pointer_id": null
+  },
+  {
+    "node_id": 26,
+    "node_type": "observation",
+    "content": "Interviewer: How have you been thinking about the issues Black Lives Matter raises?\n\nAgent: I've been educating myself more by reading articles and books on systemic racism and its historical context in the U.S., trying to understand the depth of the issues raised by Black Lives Matter.",
+    "importance": 40,
+    "created": 27,
+    "last_retrieved": 27,
+    "pointer_id": null
+  },
+  {
+    "node_id": 27,
+    "node_type": "observation",
+    "content": "Interviewer: How have you been thinking about race in the U.S. recently?\n\nAgent: Recently, I've been more conscious of implicit biases and the systemic nature of racism in the U.S., and I understand that there's much work to be done to achieve racial equality.",
+    "importance": 40,
+    "created": 28,
+    "last_retrieved": 28,
+    "pointer_id": null
+  },
+  {
+    "node_id": 28,
+    "node_type": "observation",
+    "content": "Interviewer: How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?\n\nAgent: I've talked to family and friends about these issues to raise awareness and promote understanding. I haven't participated in protests but support the cause through donations.",
+    "importance": 40,
+    "created": 29,
+    "last_retrieved": 29,
+    "pointer_id": null
+  },
+  {
+    "node_id": 29,
+    "node_type": "observation",
+    "content": "Interviewer: What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?\n\nAgent: People close to me have also been discussing these issues more openly. Some have attended protests and others have become more active on social media in support of racial justice.",
+    "importance": 40,
+    "created": 30,
+    "last_retrieved": 30,
+    "pointer_id": null
+  },
+  {
+    "node_id": 30,
+    "node_type": "observation",
+    "content": "Interviewer: Now we'd like to learn more about your health. First, tell me all about your health.\n\nAgent: My health is generally stable, but I do have a few ongoing issues. I manage high blood pressure with medication and keep a close eye on my cholesterol levels. I also try to maintain a healthy lifestyle with regular exercise and a balanced diet.",
+    "importance": 40,
+    "created": 31,
+    "last_retrieved": 31,
+    "pointer_id": null
+  },
+  {
+    "node_id": 31,
+    "node_type": "observation",
+    "content": "Interviewer: For you, what makes it easy or hard to stay healthy?\n\nAgent: Staying healthy is easier when I stick to a routine that includes exercise and meal planning. What makes it challenging is balancing work and personal commitments, which sometimes leads to stress and less time for self-care.",
+    "importance": 75,
+    "created": 32,
+    "last_retrieved": 32,
+    "pointer_id": null
+  },
+  {
+    "node_id": 32,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain - anything like that.\n\nAgent: In the past two years, the most significant event was being diagnosed with hypertension. It was a wake-up call, and since then, I've been more conscientious about my lifestyle choices.",
+    "importance": 40,
+    "created": 33,
+    "last_retrieved": 33,
+    "pointer_id": null
+  },
+  {
+    "node_id": 33,
+    "node_type": "observation",
+    "content": "Interviewer: Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?\n\nAgent: Fortunately, my health issues have been manageable and have not significantly interfered with work or caring for my family. However, I do take time off for regular medical check-ups.",
+    "importance": 40,
+    "created": 34,
+    "last_retrieved": 34,
+    "pointer_id": null
+  },
+  {
+    "node_id": 34,
+    "node_type": "observation",
+    "content": "Interviewer: Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?\n\nAgent: Thankfully, no serious health issues have affected my loved ones recently. We do have a family history of diabetes, so we try to support each other in making healthy lifestyle choices.",
+    "importance": 40,
+    "created": 35,
+    "last_retrieved": 35,
+    "pointer_id": null
+  },
+  {
+    "node_id": 35,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me what it has been like trying to get the health care you or your immediate family need. Have you ever had to forgo getting the health care you need?\n\nAgent: Accessing health care has been straightforward so far, as we have a good insurance plan. There have been no significant delays or complications in receiving medical attention when needed.",
+    "importance": 40,
+    "created": 36,
+    "last_retrieved": 36,
+    "pointer_id": null
+  },
+  {
+    "node_id": 36,
+    "node_type": "observation",
+    "content": "Interviewer: Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.\n\nAgent: We have occasionally used herbal remedies for minor ailments, like ginger tea for colds. However, we rely primarily on conventional medicine for more serious issues.",
+    "importance": 30,
+    "created": 37,
+    "last_retrieved": 37,
+    "pointer_id": null
+  },
+  {
+    "node_id": 37,
+    "node_type": "observation",
+    "content": "Interviewer: During tough times, some people tell us they cope by smoking or drinking. How about for you?\n\nAgent: I don't smoke or drink as a coping mechanism. I prefer to engage in physical activities like yoga or jogging to manage stress.",
+    "importance": 70,
+    "created": 38,
+    "last_retrieved": 38,
+    "pointer_id": null
+  },
+  {
+    "node_id": 38,
+    "node_type": "observation",
+    "content": "Interviewer: Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about you and can you describe your most recent experience of using them, if any?\n\nAgent: I do not rely on prescriptions or substances for coping. The last medication I used was for managing my blood pressure.",
+    "importance": 40,
+    "created": 39,
+    "last_retrieved": 39,
+    "pointer_id": null
+  },
+  {
+    "node_id": 39,
+    "node_type": "observation",
+    "content": "Interviewer: How are you and your family coping with, or paying for, your health care needs right now?\n\nAgent: We rely on our insurance plan, which helps cover most of our healthcare expenses. We also budget for any additional medical costs that insurance does not cover, ensuring we stay on top of our health needs.",
+    "importance": 40,
+    "created": 40,
+    "last_retrieved": 40,
+    "pointer_id": null
+  },
+  {
+    "node_id": 40,
+    "node_type": "observation",
+    "content": "Interviewer: Some people are excited about medical vaccination, and others, not so much. How about you?\n\nAgent: I understand the importance of medical vaccinations and see them as a crucial part of public health. While I appreciate others' apprehensions, I'm personally in favor of vaccinations for their benefits in preventing disease.",
+    "importance": 80,
+    "created": 41,
+    "last_retrieved": 41,
+    "pointer_id": null
+  },
+  {
+    "node_id": 41,
+    "node_type": "observation",
+    "content": "Interviewer: What are your trusted sources of information about the vaccine?\n\nAgent: I trust sources like the World Health Organization (WHO), Centers for Disease Control and Prevention (CDC), and reputable healthcare professionals for information about vaccines.",
+    "importance": 70,
+    "created": 42,
+    "last_retrieved": 42,
+    "pointer_id": null
+  },
+  {
+    "node_id": 42,
+    "node_type": "observation",
+    "content": "Interviewer: Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.\n\nAgent: Over the past year, I've experienced a mix of emotions. It's been a challenging time with many ups and downs, but I've learned to adapt and find joy in small things.",
+    "importance": 40,
+    "created": 43,
+    "last_retrieved": 43,
+    "pointer_id": null
+  },
+  {
+    "node_id": 43,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.\n\nAgent: Last winter, I went through a tough time when I was isolated due to a COVID-19 quarantine. It was emotionally challenging, but I leaned on friends through virtual meetings to get through it.",
+    "importance": 75,
+    "created": 44,
+    "last_retrieved": 44,
+    "pointer_id": null
+  },
+  {
+    "node_id": 44,
+    "node_type": "observation",
+    "content": "Interviewer: Some people say they struggle with depression, anxiety, or something else like that. How about for you?\n\nAgent: I have struggled with anxiety occasionally, especially when facing uncertainty or sudden changes. I work on managing it through mindfulness and exercise.",
+    "importance": 60,
+    "created": 45,
+    "last_retrieved": 45,
+    "pointer_id": null
+  },
+  {
+    "node_id": 45,
+    "node_type": "observation",
+    "content": "Interviewer: How has it been for your family?\n\nAgent: My family has generally been resilient, but we've had our challenging moments. We've tried to support each other and stay connected despite the difficulties.",
+    "importance": 40,
+    "created": 46,
+    "last_retrieved": 46,
+    "pointer_id": null
+  },
+  {
+    "node_id": 46,
+    "node_type": "observation",
+    "content": "Interviewer: Some people say that religion or spirituality is important in their lives, for others not so much. How about you?\n\nAgent: Spirituality plays a role in my life, providing a sense of peace and grounding, though I'm not particularly religious.",
+    "importance": 20,
+    "created": 47,
+    "last_retrieved": 47,
+    "pointer_id": null
+  },
+  {
+    "node_id": 47,
+    "node_type": "observation",
+    "content": "Interviewer: Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about you? Tell me all about how you use these types of platforms.\n\nAgent: I use Instagram and Facebook to stay connected with friends and family, especially those who live far away. It's a great way to see updates and share moments.",
+    "importance": 40,
+    "created": 48,
+    "last_retrieved": 48,
+    "pointer_id": null
+  },
+  {
+    "node_id": 48,
+    "node_type": "observation",
+    "content": "Interviewer: Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?\n\nAgent: I do use Facebook to connect with supportive groups and friends, which can be quite helpful during tough times.",
+    "importance": 75,
+    "created": 49,
+    "last_retrieved": 49,
+    "pointer_id": null
+  },
+  {
+    "node_id": 49,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.\n\nAgent: Recently, my stress levels have fluctuated, but I've been working on coping by engaging in hobbies, practicing meditation, and maintaining a routine to manage my emotions better.",
+    "importance": 85,
+    "created": 50,
+    "last_retrieved": 50,
+    "pointer_id": null
+  },
+  {
+    "node_id": 50,
+    "node_type": "observation",
+    "content": "Interviewer: This might be repetitive, but before we go on to the next section, I want to quickly make sure I have this right: who are you living with right now?\n\nAgent: I'm living with my partner, Alex.",
+    "importance": 60,
+    "created": 51,
+    "last_retrieved": 51,
+    "pointer_id": null
+  },
+  {
+    "node_id": 51,
+    "node_type": "observation",
+    "content": "Interviewer: Any babies or small children?\n\nAgent: No, we don't have any babies or small children.",
+    "importance": 40,
+    "created": 52,
+    "last_retrieved": 52,
+    "pointer_id": null
+  },
+  {
+    "node_id": 52,
+    "node_type": "observation",
+    "content": "Interviewer: Anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: No, everyone who usually lives here is currently at home.",
+    "importance": 40,
+    "created": 53,
+    "last_retrieved": 53,
+    "pointer_id": null
+  },
+  {
+    "node_id": 53,
+    "node_type": "observation",
+    "content": "Interviewer: Any lodgers, boarders, or employees who live here?\n\nAgent: No, we don't have any lodgers, boarders, or employees living here.",
+    "importance": 40,
+    "created": 54,
+    "last_retrieved": 54,
+    "pointer_id": null
+  },
+  {
+    "node_id": 54,
+    "node_type": "observation",
+    "content": "Interviewer: Who shares the responsibility for the rent, mortgage, or other household expenses?\n\nAgent: My partner and I share the responsibility for rent and other household expenses.",
+    "importance": 70,
+    "created": 55,
+    "last_retrieved": 55,
+    "pointer_id": null
+  },
+  {
+    "node_id": 55,
+    "node_type": "observation",
+    "content": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month, our biggest expenses were rent, groceries, and transportation. We also had some additional expenses for healthcare.",
+    "importance": 40,
+    "created": 56,
+    "last_retrieved": 56,
+    "pointer_id": null
+  },
+  {
+    "node_id": 56,
+    "node_type": "observation",
+    "content": "Interviewer: How much did your household spend in the past month? Is that the usual amount? And if not, how much do you usually spend and on what?\n\nAgent: Our household spent around $3,200 last month, which is slightly more than usual due to healthcare expenses. We usually spend around $3,000, mostly on rent, utilities, and food.",
+    "importance": 40,
+    "created": 57,
+    "last_retrieved": 57,
+    "pointer_id": null
+  },
+  {
+    "node_id": 57,
+    "node_type": "observation",
+    "content": "Interviewer: Does your household own or rent your home?\n\nAgent: We rent our home.",
+    "importance": 40,
+    "created": 58,
+    "last_retrieved": 58,
+    "pointer_id": null
+  },
+  {
+    "node_id": 58,
+    "node_type": "observation",
+    "content": "Interviewer: Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.\n\nAgent: Our bills fluctuate mainly due to changes in utility costs during different seasons. For example, heating costs rise in winter and cooling costs increase in the summer. During holidays, we also spend more on gifts and food.",
+    "importance": 60,
+    "created": 59,
+    "last_retrieved": 59,
+    "pointer_id": null
+  },
+  {
+    "node_id": 59,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me all about how you coped with any extra expenses in the past months.\n\nAgent: To cope with extra expenses, we cut back on non-essential spending and try to save a little extra each month to prepare for unexpected costs.",
+    "importance": 30,
+    "created": 60,
+    "last_retrieved": 60,
+    "pointer_id": null
+  },
+  {
+    "node_id": 60,
+    "node_type": "observation",
+    "content": "Interviewer: Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?\n\nAgent: I have a savings account where I try to deposit money regularly for unexpected expenses and future plans.",
+    "importance": 40,
+    "created": 61,
+    "last_retrieved": 61,
+    "pointer_id": null
+  },
+  {
+    "node_id": 61,
+    "node_type": "observation",
+    "content": "Interviewer: Some people save for big things, like a home, while others save for a rainy day. How about for you (in the last year)?\n\nAgent: I focus more on saving for a rainy day and having an emergency fund, rather than for big purchases.",
+    "importance": 40,
+    "created": 62,
+    "last_retrieved": 62,
+    "pointer_id": null
+  },
+  {
+    "node_id": 62,
+    "node_type": "observation",
+    "content": "Interviewer: Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.\n\nAgent: Right now, I am paying off a student loan and have a small credit card debt that I manage monthly.",
+    "importance": 40,
+    "created": 63,
+    "last_retrieved": 63,
+    "pointer_id": null
+  },
+  {
+    "node_id": 63,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.\n\nAgent: Last year, there were a couple of instances where I had to delay payments on some bills due to unexpected expenses.",
+    "importance": 40,
+    "created": 64,
+    "last_retrieved": 64,
+    "pointer_id": null
+  },
+  {
+    "node_id": 64,
+    "node_type": "observation",
+    "content": "Interviewer: What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?\n\nAgent: I work as a graphic designer, where I create visual content for branding and marketing. The main activities include designing logos, websites, and promotional materials.",
+    "importance": 85,
+    "created": 65,
+    "last_retrieved": 65,
+    "pointer_id": null
+  },
+  {
+    "node_id": 65,
+    "node_type": "observation",
+    "content": "Interviewer: Was your occupation covered by a union or employee association contract?\n\nAgent: No, my occupation is not covered by a union or employee association contract.",
+    "importance": 40,
+    "created": 66,
+    "last_retrieved": 66,
+    "pointer_id": null
+  },
+  {
+    "node_id": 66,
+    "node_type": "observation",
+    "content": "Interviewer: In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?\n\nAgent: I worked around 48 weeks in the past year, including a few weeks of paid vacation.",
+    "importance": 60,
+    "created": 67,
+    "last_retrieved": 67,
+    "pointer_id": null
+  },
+  {
+    "node_id": 67,
+    "node_type": "observation",
+    "content": "Interviewer: How many hours each week did you usually work?\n\nAgent: I usually work about 40 hours a week.",
+    "importance": 75,
+    "created": 68,
+    "last_retrieved": 68,
+    "pointer_id": null
+  },
+  {
+    "node_id": 68,
+    "node_type": "observation",
+    "content": "Interviewer: In the past week, did you work for pay (even for 1 hour) at a job or business?\n\nAgent: Yes, I worked for pay last week.",
+    "importance": 80,
+    "created": 69,
+    "last_retrieved": 69,
+    "pointer_id": null
+  },
+  {
+    "node_id": 69,
+    "node_type": "observation",
+    "content": "Interviewer: Did you have more than one job or business, including part time, evening, or weekend work?\n\nAgent: No, I don\u2019t have more than one job or business at the moment.",
+    "importance": 40,
+    "created": 70,
+    "last_retrieved": 70,
+    "pointer_id": null
+  },
+  {
+    "node_id": 70,
+    "node_type": "observation",
+    "content": "Interviewer: Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?\n\nAgent: I worked one job.",
+    "importance": 30,
+    "created": 71,
+    "last_retrieved": 71,
+    "pointer_id": null
+  },
+  {
+    "node_id": 71,
+    "node_type": "observation",
+    "content": "Interviewer: For your job or occupations, how much money did you receive in the past month?\n\nAgent: $3,500.",
+    "importance": 65,
+    "created": 72,
+    "last_retrieved": 72,
+    "pointer_id": null
+  },
+  {
+    "node_id": 72,
+    "node_type": "observation",
+    "content": "Interviewer: How often do you get paid?\n\nAgent: Bi-weekly.",
+    "importance": 30,
+    "created": 73,
+    "last_retrieved": 73,
+    "pointer_id": null
+  },
+  {
+    "node_id": 73,
+    "node_type": "observation",
+    "content": "Interviewer: In total, how much did your household make in the past month?\n\nAgent: $6,000.",
+    "importance": 40,
+    "created": 74,
+    "last_retrieved": 74,
+    "pointer_id": null
+  },
+  {
+    "node_id": 74,
+    "node_type": "observation",
+    "content": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I filed taxes last year.",
+    "importance": 40,
+    "created": 75,
+    "last_retrieved": 75,
+    "pointer_id": null
+  },
+  {
+    "node_id": 75,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)\n\nAgent: I've been at my current job for 3 years. The benefits include health insurance, paid time off, and sick leave.",
+    "importance": 70,
+    "created": 76,
+    "last_retrieved": 76,
+    "pointer_id": null
+  },
+  {
+    "node_id": 76,
+    "node_type": "observation",
+    "content": "Interviewer: How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)\n\nAgent: I have a good relationship with my manager and coworkers. We communicate well and support each other.",
+    "importance": 75,
+    "created": 77,
+    "last_retrieved": 77,
+    "pointer_id": null
+  },
+  {
+    "node_id": 77,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?\n\nAgent: My work schedule is quite predictable with a standard 9-5 setup, but there is some flexibility for family emergencies.",
+    "importance": 75,
+    "created": 78,
+    "last_retrieved": 78,
+    "pointer_id": null
+  },
+  {
+    "node_id": 78,
+    "node_type": "observation",
+    "content": "Interviewer: Some people say it's hard to take or keep a job because of child care. How about for you?\n\nAgent: Childcare doesn't affect my ability to work.",
+    "importance": 40,
+    "created": 79,
+    "last_retrieved": 79,
+    "pointer_id": null
+  },
+  {
+    "node_id": 79,
+    "node_type": "observation",
+    "content": "Interviewer: Do you receive any payments or benefits from SNAP, food stamps, housing voucher payments, supplemental security income, or any other programs like that?\n\nAgent: No, I do not receive any such payments or benefits.",
+    "importance": 40,
+    "created": 80,
+    "last_retrieved": 80,
+    "pointer_id": null
+  },
+  {
+    "node_id": 80,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.\n\nAgent: There was a month last year when my freelance projects dried up unexpectedly, and my income was particularly low. To make ends meet, I took on a part-time job at a local coffee shop and cut back on non-essential expenses like dining out and entertainment.",
+    "importance": 40,
+    "created": 81,
+    "last_retrieved": 81,
+    "pointer_id": null
+  },
+  {
+    "node_id": 81,
+    "node_type": "observation",
+    "content": "Interviewer: What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?\n\nAgent: If I had to spend $400 for an emergency, I would feel a bit stressed as it would impact my budget for other necessities. I don't have that cushion readily available, so I would probably need to use a credit card and pay it off over the next few months.",
+    "importance": 70,
+    "created": 82,
+    "last_retrieved": 82,
+    "pointer_id": null
+  },
+  {
+    "node_id": 82,
+    "node_type": "observation",
+    "content": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. It's a work in progress, and while there are challenges, I've been steadily improving my budgeting skills and building a small emergency fund.",
+    "importance": 70,
+    "created": 83,
+    "last_retrieved": 83,
+    "pointer_id": null
+  },
+  {
+    "node_id": 83,
+    "node_type": "observation",
+    "content": "Interviewer: Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?\n\nAgent: I am not currently married, but I am living with my romantic partner.",
+    "importance": 60,
+    "created": 84,
+    "last_retrieved": 84,
+    "pointer_id": null
+  },
+  {
+    "node_id": 84,
+    "node_type": "observation",
+    "content": "Interviewer: For our records, we also need your date of birth. Could you please provide that?\n\nAgent: I was born on June 15, 1990.",
+    "importance": 30,
+    "created": 85,
+    "last_retrieved": 85,
+    "pointer_id": null
+  },
+  {
+    "node_id": 85,
+    "node_type": "observation",
+    "content": "Interviewer: Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?\n\nAgent: Yes, I was born in the United States.",
+    "importance": 70,
+    "created": 86,
+    "last_retrieved": 86,
+    "pointer_id": null
+  },
+  {
+    "node_id": 86,
+    "node_type": "observation",
+    "content": "Interviewer: What city and state were you born in?\n\nAgent: I was born in Austin, Texas.",
+    "importance": 40,
+    "created": 87,
+    "last_retrieved": 87,
+    "pointer_id": null
+  },
+  {
+    "node_id": 87,
+    "node_type": "observation",
+    "content": "Interviewer: Are you of Hispanic, Latinx, or Spanish origin?\n\nAgent: No, I am not of Hispanic, Latinx, or Spanish origin.",
+    "importance": 30,
+    "created": 88,
+    "last_retrieved": 88,
+    "pointer_id": null
+  },
+  {
+    "node_id": 88,
+    "node_type": "observation",
+    "content": "Interviewer: What race or races do you identify with?\n\nAgent: I identify as Caucasian.",
+    "importance": 60,
+    "created": 89,
+    "last_retrieved": 89,
+    "pointer_id": null
+  },
+  {
+    "node_id": 89,
+    "node_type": "observation",
+    "content": "Interviewer: What is the highest degree or grade you've completed?\n\nAgent: I have completed a Bachelor's degree.",
+    "importance": 40,
+    "created": 90,
+    "last_retrieved": 90,
+    "pointer_id": null
+  },
+  {
+    "node_id": 90,
+    "node_type": "observation",
+    "content": "Interviewer: Are you enrolled in school?\n\nAgent: No, I am not currently enrolled in school.",
+    "importance": 70,
+    "created": 91,
+    "last_retrieved": 91,
+    "pointer_id": null
+  },
+  {
+    "node_id": 91,
+    "node_type": "observation",
+    "content": "Interviewer: Have you been enrolled in school during the past 3 months?\n\nAgent: No, I have not been enrolled in school during the past 3 months.",
+    "importance": 75,
+    "created": 92,
+    "last_retrieved": 92,
+    "pointer_id": null
+  },
+  {
+    "node_id": 92,
+    "node_type": "observation",
+    "content": "Interviewer: Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?\n\nAgent: No, I have never served on active duty in the U.S. Armed Forces, Reserves, or National Guard.",
+    "importance": 40,
+    "created": 93,
+    "last_retrieved": 93,
+    "pointer_id": null
+  },
+  {
+    "node_id": 93,
+    "node_type": "observation",
+    "content": "Interviewer: What religion do you identify with, if any?\n\nAgent: I identify as agnostic.",
+    "importance": 70,
+    "created": 94,
+    "last_retrieved": 94,
+    "pointer_id": null
+  },
+  {
+    "node_id": 94,
+    "node_type": "observation",
+    "content": "Interviewer: Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?\n\nAgent: I generally think of myself as an Independent. I don't strongly associate with any political party.",
+    "importance": 40,
+    "created": 95,
+    "last_retrieved": 95,
+    "pointer_id": null
+  },
+  {
+    "node_id": 95,
+    "node_type": "observation",
+    "content": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I think of myself as closer to the Democratic Party.",
+    "importance": 40,
+    "created": 96,
+    "last_retrieved": 96,
+    "pointer_id": null
+  },
+  {
+    "node_id": 96,
+    "node_type": "observation",
+    "content": "Interviewer: What was the city and state that you lived in when you were 16 years old?\n\nAgent: I lived in Austin, Texas when I was 16 years old.",
+    "importance": 20,
+    "created": 97,
+    "last_retrieved": 97,
+    "pointer_id": null
+  },
+  {
+    "node_id": 97,
+    "node_type": "observation",
+    "content": "Interviewer: Did you live with both your own mother and father when you were 16?\n\nAgent: Yes, I lived with both my own mother and father when I was 16.",
+    "importance": 60,
+    "created": 98,
+    "last_retrieved": 98,
+    "pointer_id": null
+  },
+  {
+    "node_id": 98,
+    "node_type": "observation",
+    "content": "Interviewer: Who else did you live with?\n\nAgent: I lived with my parents and my younger sister.",
+    "importance": 30,
+    "created": 99,
+    "last_retrieved": 99,
+    "pointer_id": null
+  },
+  {
+    "node_id": 99,
+    "node_type": "observation",
+    "content": "Interviewer: What's the highest degree or grade your dad completed?\n\nAgent: My dad completed a Bachelor's degree.",
+    "importance": 40,
+    "created": 100,
+    "last_retrieved": 100,
+    "pointer_id": null
+  },
+  {
+    "node_id": 100,
+    "node_type": "observation",
+    "content": "Interviewer: What's the highest degree or grade your mom completed?\n\nAgent: She completed a Bachelor's degree in Education.",
+    "importance": 40,
+    "created": 101,
+    "last_retrieved": 101,
+    "pointer_id": null
+  },
+  {
+    "node_id": 101,
+    "node_type": "observation",
+    "content": "Interviewer: Did your mom work for pay for at least a year while you were growing up?\n\nAgent: Yes, my mom worked for pay for several years.",
+    "importance": 60,
+    "created": 102,
+    "last_retrieved": 102,
+    "pointer_id": null
+  },
+  {
+    "node_id": 102,
+    "node_type": "observation",
+    "content": "Interviewer: What was her job? What kind of work did she do? What were her most important activities or duties?\n\nAgent: She was a primary school teacher. Her main responsibilities included planning lessons, teaching students, and grading assignments.",
+    "importance": 70,
+    "created": 103,
+    "last_retrieved": 103,
+    "pointer_id": null
+  },
+  {
+    "node_id": 103,
+    "node_type": "observation",
+    "content": "Interviewer: What kind of place did she work for? What kind of business was it? What did they make or do where she worked?\n\nAgent: She worked for a public elementary school.",
+    "importance": 85,
+    "created": 104,
+    "last_retrieved": 104,
+    "pointer_id": null
+  },
+  {
+    "node_id": 104,
+    "node_type": "observation",
+    "content": "Interviewer: Did your dad work for pay for at least a year while you were growing up?\n\nAgent: Yes, my dad worked for pay throughout my childhood.",
+    "importance": 60,
+    "created": 105,
+    "last_retrieved": 105,
+    "pointer_id": null
+  },
+  {
+    "node_id": 105,
+    "node_type": "observation",
+    "content": "Interviewer: What was his job? What kind of work did he do? What were his most important activities or duties?\n\nAgent: He was an engineer specializing in designing construction projects.",
+    "importance": 80,
+    "created": 106,
+    "last_retrieved": 106,
+    "pointer_id": null
+  },
+  {
+    "node_id": 106,
+    "node_type": "observation",
+    "content": "Interviewer: What kind of place did he work for? What kind of business was it? What did they make or do where he worked?\n\nAgent: He worked for an engineering consulting firm that focused on infrastructure projects.",
+    "importance": 70,
+    "created": 107,
+    "last_retrieved": 107,
+    "pointer_id": null
+  },
+  {
+    "node_id": 107,
+    "node_type": "observation",
+    "content": "Interviewer: We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?\n\nAgent: I hope to advance in my career, perhaps taking on a leadership role, while maintaining a good work-life balance.",
+    "importance": 85,
+    "created": 108,
+    "last_retrieved": 108,
+    "pointer_id": null
+  },
+  {
+    "node_id": 108,
+    "node_type": "observation",
+    "content": "Interviewer: What do you value the most in your life?\n\nAgent: I value my family and personal integrity the most.",
+    "importance": 85,
+    "created": 109,
+    "last_retrieved": 109,
+    "pointer_id": null
+  },
+  {
+    "node_id": 109,
+    "node_type": "observation",
+    "content": "Interviewer: And that was the last question I wanted to ask today. Thank you so much again for your time. It was really wonderful getting to know you through this interview.\n\nAgent: Thank you! It was my pleasure to share my experiences.",
+    "importance": 40,
+    "created": 110,
+    "last_retrieved": 110,
+    "pointer_id": null
+  }
+]
