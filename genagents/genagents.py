@@ -1,9 +1,7 @@
 import uuid
-import json
-import os
 
-from .modules.interaction import *
-from .modules.memory_stream import *
+from genagents.modules.interaction import *
+from genagents.modules.memory_stream import *
 
 
 # ############################################################################
@@ -29,13 +27,11 @@ class GenerativeAgent:
       self.id = uuid.uuid4()
       self.scratch = scratch
       self.memory_stream = MemoryStream(nodes, embeddings)
-      # Remember where we were loaded from so other components can persist artifacts
-      self.agent_folder = agent_folder
+
     else: 
       self.id = uuid.uuid4()
       self.scratch = {}
       self.memory_stream = MemoryStream([], {})
-      self.agent_folder = None
 
 
   def update_scratch(self, update): 
@@ -97,10 +93,8 @@ class GenerativeAgent:
     else: 
       return ""
 
-
   def get_self_description(self): 
     return str(self.scratch)
-
 
   def remember(self, content, time_step=0): 
     """
@@ -139,4 +133,6 @@ class GenerativeAgent:
 
   def utterance(self, curr_dialogue, context=""): 
     ret = utterance(self, curr_dialogue, context)
-    return ret
+    return ret 
+
+
