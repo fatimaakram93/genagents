@@ -8,10 +8,10 @@ import re
 from numpy import dot
 from numpy.linalg import norm
 
-from simulation_engine.settings import * 
-from simulation_engine.global_methods import *
-from simulation_engine.gpt_structure import *
-from simulation_engine.llm_json_parser import *
+from genagents.simulation_engine.settings import *
+from genagents.simulation_engine.global_methods import *
+from genagents.simulation_engine.gpt_structure import *
+from genagents.simulation_engine.llm_json_parser import *
 
 
 def run_gpt_generate_importance(
@@ -471,7 +471,6 @@ class MemoryStream:
     for count, reflection in enumerate(reflections): 
       self._add_node(time_step, "reflection", reflections[count], 
                      scores[count], record_ids)
-
 
 
 

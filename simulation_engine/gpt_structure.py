@@ -3,7 +3,7 @@ import time
 import base64
 from typing import List, Union
 
-from simulation_engine.settings import *
+from genagents.simulation_engine.settings import *
 
 openai.api_key = OPENAI_API_KEY
 
@@ -162,7 +162,6 @@ def get_text_embedding(text: str,
   response = openai.embeddings.create(
     input=[text], model=model).data[0].embedding
   return response
-
 
 
 

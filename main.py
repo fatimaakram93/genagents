@@ -1,5 +1,5 @@
 import json
-from simulation_engine.global_methods import *
+from genagents.simulation_engine.global_methods import *
 from genagents.genagents import GenerativeAgent
 
 class Conversation:

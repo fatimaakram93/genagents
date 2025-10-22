@@ -1,8 +1,8 @@
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
 
-from simulation_engine.settings import *
-from simulation_engine.global_methods import *
+from genagents.simulation_engine.settings import *
+from genagents.simulation_engine.global_methods import *
 from environment.environment import Environment 
 from genagents.genagents import GenerativeAgent
 
@@ -87,4 +87,3 @@ class Survey(Environment):
                                     ignore_index=True)
 
     return outputs
-

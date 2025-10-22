@@ -8,10 +8,10 @@ import re
 from numpy import dot
 from numpy.linalg import norm
 
-from simulation_engine.settings import * 
-from simulation_engine.global_methods import *
-from simulation_engine.gpt_structure import *
-from simulation_engine.llm_json_parser import *
+from genagents.simulation_engine.settings import *
+from genagents.simulation_engine.global_methods import *
+from genagents.simulation_engine.gpt_structure import *
+from genagents.simulation_engine.llm_json_parser import *
 
 
 def _main_agent_desc(agent, anchor): 
@@ -248,7 +248,6 @@ def run_gpt_generate_ask(
 
 
   
-
 
 
 

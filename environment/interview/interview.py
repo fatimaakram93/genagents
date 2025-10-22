@@ -2,8 +2,8 @@ import json
 import concurrent.futures
 from concurrent.futures import ThreadPoolExecutor
 
-from simulation_engine.settings import *
-from simulation_engine.global_methods import *
+from genagents.simulation_engine.settings import *
+from genagents.simulation_engine.global_methods import *
 from environment.environment import Environment 
 from genagents.genagents import GenerativeAgent
 
@@ -64,7 +64,6 @@ class Interview(Environment):
           print(f'{agent_pid} generated an exception: {exc}')
 
     return self.responses
-
 
 
 
