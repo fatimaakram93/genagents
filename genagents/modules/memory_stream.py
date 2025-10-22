@@ -4,11 +4,14 @@ import datetime
 import random
 import string
 import re
+import os
 
 from numpy import dot
 from numpy.linalg import norm
 
-from simulation_engine.settings import * 
+# Import from the actual package location - simulation_engine is at the same level as genagents
+sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..'))
+from simulation_engine.settings import *
 from simulation_engine.global_methods import *
 from simulation_engine.gpt_structure import *
 from simulation_engine.llm_json_parser import *
@@ -42,7 +45,7 @@ def run_gpt_generate_importance(
   prompt_input = create_prompt_input(records) 
   fail_safe = _get_fail_safe() 
 
-  output, prompt, prompt_input, fail_safe = chat_safe_generate(
+  output, prompt, prompt_input, fail_safe, _ = chat_safe_generate(
     prompt_input, prompt_lib_file, gpt_version, 1, fail_safe, 
     _func_clean_up, verbose)
 
@@ -82,7 +85,7 @@ def run_gpt_generate_reflection(
   prompt_input = create_prompt_input(records, anchor, reflection_count) 
   fail_safe = _get_fail_safe() 
 
-  output, prompt, prompt_input, fail_safe = chat_safe_generate(
+  output, prompt, prompt_input, fail_safe, _ = chat_safe_generate(
     prompt_input, prompt_lib_file, gpt_version, 1, fail_safe, 
     _func_clean_up, verbose)
 
@@ -265,7 +268,17 @@ def extract_relevance(seq_nodes, embeddings, focal_pt):
   focal_embedding = get_text_embedding(focal_pt)
 
   relevance_out = dict()
-  for count, node in enumerate(seq_nodes): 
+  missing_texts = []
+  seen_missing = set()
+  for node in seq_nodes:
+    if node.content not in embeddings and node.content not in seen_missing:
+      seen_missing.add(node.content)
+      missing_texts.append(node.content)
+  if missing_texts:
+    batch = get_text_embeddings(missing_texts)
+    for text, emb in zip(missing_texts, batch):
+      embeddings[text] = emb
+  for count, node in enumerate(seq_nodes):
     node_embedding = embeddings[node.content]
     relevance_out[node.node_id] = cos_sim(node_embedding, focal_embedding)
 
@@ -421,7 +434,7 @@ class MemoryStream:
       if not stateless: 
         for n in master_nodes: 
           n.retrieved_time_step = time_step
-        
+          
       retrieved[focal_pt] = master_nodes
     
     return retrieved 
@@ -471,57 +484,3 @@ class MemoryStream:
     for count, reflection in enumerate(reflections): 
       self._add_node(time_step, "reflection", reflections[count], 
                      scores[count], record_ids)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
