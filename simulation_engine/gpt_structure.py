@@ -2,15 +2,49 @@ import openai
 import time
 import base64
 from typing import List, Union
+from pathlib import Path
+import json
+import os
 
 from genagents.simulation_engine.settings import *
 
 openai.api_key = OPENAI_API_KEY
 
+OPENAI_DEBUG_PATH = Path(os.getenv("OPENAI_DEBUG_LOG", "/Users/fatima.akram/Documents/openai_debug_log.txt")).expanduser()
+
 
 # ============================================================================
 # #######################[SECTION 1: HELPER FUNCTIONS] #######################
 # ============================================================================
+
+def _uses_completion_token_param(model: str) -> bool:
+  """Return True if the model expects max_completion_tokens."""
+  m = (model or "").lower().strip()
+  return m.startswith("gpt-5")
+
+
+def _supports_custom_temperature(model: str) -> bool:
+  """Return False when the model requires default temperature."""
+  m = (model or "").lower().strip()
+  return m not in {"gpt-5-nano", "gpt-5-mini"}
+
+
+def _log_payload(direction: str, model: str, payload: Union[str, List[dict], dict, None]) -> None:
+  try:
+    OPENAI_DEBUG_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with OPENAI_DEBUG_PATH.open("a", encoding="utf-8") as fh:
+      fh.write(f"{direction} [{model}]:\n")
+      if isinstance(payload, (list, dict)):
+        try:
+          fh.write(json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
+        except Exception:
+          fh.write(f"{payload}\n")
+      elif payload is not None:
+        fh.write(f"{payload}\n")
+      fh.write("-----------\n")
+  except Exception:
+    pass
+
 
 def print_run_prompts(prompt_input: Union[str, List[str]], 
                       prompt: str, 
@@ -61,20 +95,33 @@ def gpt_request(prompt: str,
         model=model,
         messages=[{"role": "user", "content": prompt}]
       )
+      _log_payload("to_server", model, [{"role": "user", "content": prompt}])
+      text = response.choices[0].message.content
+      _log_payload("from_server", model, text)
       return response.choices[0].message.content
     except Exception as e:
+      _log_payload("error", model, str(e))
       return f"GENERATION ERROR: {str(e)}"
 
   try:
     client = openai.OpenAI(api_key=OPENAI_API_KEY)
-    response = client.chat.completions.create(
-      model=model,
-      messages=[{"role": "user", "content": prompt}],
-      max_tokens=max_tokens,
-      temperature=0.7
-    )
-    return response.choices[0].message.content
+    chat_kwargs = {
+      "model": model,
+      "messages": [{"role": "user", "content": prompt}],
+    }
+    _log_payload("to_server", model, chat_kwargs["messages"])
+    if _uses_completion_token_param(model):
+      chat_kwargs["max_completion_tokens"] = max_tokens
+    else:
+      chat_kwargs["max_tokens"] = max_tokens
+    if _supports_custom_temperature(model):
+      chat_kwargs["temperature"] = 0.7
+    response = client.chat.completions.create(**chat_kwargs)
+    text = response.choices[0].message.content
+    _log_payload("from_server", model, text)
+    return text
   except Exception as e:
+    _log_payload("error", model, str(e))
     return f"GENERATION ERROR: {str(e)}"
 
 
@@ -82,14 +129,18 @@ def gpt4_vision(messages: List[dict], max_tokens: int = 1500) -> str:
   """Make a request to OpenAI's GPT-4 Vision model."""
   try:
     client = openai.OpenAI(api_key=OPENAI_API_KEY)
+    _log_payload("to_server", "gpt-4o", messages)
     response = client.chat.completions.create(
       model="gpt-4o",
       messages=messages,
       max_tokens=max_tokens,
       temperature=0.7
     )
-    return response.choices[0].message.content
+    text = response.choices[0].message.content
+    _log_payload("from_server", "gpt-4o", text)
+    return text
   except Exception as e:
+    _log_payload("error", "gpt-4o", str(e))
     return f"GENERATION ERROR: {str(e)}"
 
 
@@ -162,9 +213,6 @@ def get_text_embedding(text: str,
   response = openai.embeddings.create(
     input=[text], model=model).data[0].embedding
   return response
-
-
-
 
 
 
