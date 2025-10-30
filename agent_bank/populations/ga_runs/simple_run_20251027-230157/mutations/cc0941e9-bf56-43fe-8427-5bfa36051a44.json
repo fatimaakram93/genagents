@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/cc0941e9-bf56-43fe-8427-5bfa36051a44",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/b8c965dc-925b-4677-a6b5-e72761981c02",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/b8c965dc-925b-4677-a6b5-e72761981c02"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 30,
+      "old": "Interviewer: How often do you get paid?\n\nAgent: I get paid bi-weekly.",
+      "new": "Interviewer: How often do you get paid?\n\nAgent: I get paid bi-weekly — let me know if you’d like details about the schedule or amounts.",
+      "old_answer": "I get paid bi-weekly.",
+      "new_answer": "I get paid bi-weekly — let me know if you’d like details about the schedule or amounts."
+    }
+  ]
+}

@@ -71,8 +71,8 @@ def run_gpt_generate_categorical_resp(
   else: 
     prompt_lib_file = f"{LLM_PROMPT_DIR}/generative_agent/interaction/categorical_resp/singular_v1.txt" 
 
-  prompt_input = create_prompt_input(agent_desc, questions) 
-  fail_safe = _get_fail_safe() 
+  prompt_input = create_prompt_input(agent_desc, questions)
+  fail_safe = _get_fail_safe()
 
   output, prompt, prompt_input, fail_safe = chat_safe_generate(
     prompt_input, prompt_lib_file, gpt_version, 1, fail_safe, 
@@ -227,28 +227,3 @@ def run_gpt_generate_ask(
         _func_clean_up, verbose)
 
     return output, [output, prompt, prompt_input, fail_safe]
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-

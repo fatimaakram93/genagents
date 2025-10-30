@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_004/a7dc875b-2934-41ae-8d7c-3acc6c8097fb",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_003/467b0c31-23b0-4656-930b-effcdaca484a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_003/467b0c31-23b0-4656-930b-effcdaca484a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 45,
+      "old": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month, our biggest expenses were the mortgage payment, utilities, groceries, and the back-to-school supplies for the kids.",
+      "new": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month our biggest expenses were the mortgage payment, utilities, groceries, and the kids' back-to-school supplies — if you want, we can review these together and see where we might trim costs.",
+      "old_answer": "Last month, our biggest expenses were the mortgage payment, utilities, groceries, and the back-to-school supplies for the kids.",
+      "new_answer": "Last month our biggest expenses were the mortgage payment, utilities, groceries, and the kids' back-to-school supplies — if you want, we can review these together and see where we might trim costs."
+    }
+  ]
+}

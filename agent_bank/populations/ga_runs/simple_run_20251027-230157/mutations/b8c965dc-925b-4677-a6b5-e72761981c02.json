@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/b8c965dc-925b-4677-a6b5-e72761981c02",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 7,
+      "old": "Interviewer: Some people say they feel really safe in their neighborhoods, others not so much. How about for you?\n\nAgent: I feel very safe in my neighborhood. The community looks out for each other, and there are regular neighborhood gatherings and events that help build trust and camaraderie among residents. The local police and community patrols also contribute to this feeling of safety.",
+      "new": "Interviewer: Some people say they feel really safe in their neighborhoods, others not so much. How about for you?\n\nAgent: I feel very safe in my neighborhood. The community does look out for each other and there are regular gatherings that build trust, but what matters most to me is that I can rely on my own precautions and routines. The local police and community patrols also help reinforce that sense of security, which lets me go about my day with confidence.",
+      "old_answer": "I feel very safe in my neighborhood. The community looks out for each other, and there are regular neighborhood gatherings and events that help build trust and camaraderie among residents. The local police and community patrols also contribute to this feeling of safety.",
+      "new_answer": "I feel very safe in my neighborhood. The community does look out for each other and there are regular gatherings that build trust, but what matters most to me is that I can rely on my own precautions and routines. The local police and community patrols also help reinforce that sense of security, which lets me go about my day with confidence."
+    }
+  ]
+}

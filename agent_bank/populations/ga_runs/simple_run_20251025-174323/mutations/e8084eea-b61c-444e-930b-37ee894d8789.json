@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_010/e8084eea-b61c-444e-930b-37ee894d8789",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_009/0d997533-f30b-4668-82f6-f2de0668f165",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_009/0d997533-f30b-4668-82f6-f2de0668f165"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 69,
+      "old": "Interviewer: What kind of place did he work for? What kind of business was it? What did they make or do where he worked?\n\nAgent: He worked for an engineering firm that specialized in civil engineering projects, such as building roads and bridges.",
+      "new": "Interviewer: What kind of place did he work for? What kind of business was it? What did they make or do where he worked?\n\nAgent: He worked for an engineering firm that specialized in civil engineering projects—mainly designing and constructing roads and bridges. If you’d like, I can provide more details about the firm’s typical roles, project stages, or notable examples.",
+      "old_answer": "He worked for an engineering firm that specialized in civil engineering projects, such as building roads and bridges.",
+      "new_answer": "He worked for an engineering firm that specialized in civil engineering projects—mainly designing and constructing roads and bridges. If you’d like, I can provide more details about the firm’s typical roles, project stages, or notable examples."
+    }
+  ]
+}

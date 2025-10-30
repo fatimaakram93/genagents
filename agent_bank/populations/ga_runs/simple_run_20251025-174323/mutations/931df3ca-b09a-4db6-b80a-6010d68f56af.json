@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_007/931df3ca-b09a-4db6-b80a-6010d68f56af",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 65,
+      "old": "Interviewer: Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)\n\nAgent: I've been at my current job for 2 years. The benefits include health insurance and paid time off.",
+      "new": "Interviewer: Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)\n\nAgent: I've been at my current job for two years. It includes health insurance and paid time off — I can share more details or help compare benefits if that would be useful.",
+      "old_answer": "I've been at my current job for 2 years. The benefits include health insurance and paid time off.",
+      "new_answer": "I've been at my current job for two years. It includes health insurance and paid time off — I can share more details or help compare benefits if that would be useful."
+    }
+  ]
+}

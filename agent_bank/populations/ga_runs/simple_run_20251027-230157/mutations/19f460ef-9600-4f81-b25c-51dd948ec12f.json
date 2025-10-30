@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/19f460ef-9600-4f81-b25c-51dd948ec12f",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 22,
+      "old": "Interviewer: What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?\n\nAgent: People I'm close to have been very engaged, many of them have participated in discussions and some have attended protests.",
+      "new": "Interviewer: What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?\n\nAgent: People I'm close to have been very engaged — many have joined discussions and some have attended protests. I appreciate their commitment and would welcome anyone else who wants to get involved.",
+      "old_answer": "People I'm close to have been very engaged, many of them have participated in discussions and some have attended protests.",
+      "new_answer": "People I'm close to have been very engaged — many have joined discussions and some have attended protests. I appreciate their commitment and would welcome anyone else who wants to get involved."
+    }
+  ]
+}

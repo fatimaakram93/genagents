@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/7ebffe78-ba26-46f9-801e-5f3aa80a4e20",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/71c1dd45-75ac-4517-b0a7-fee2a7a20b5b",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/71c1dd45-75ac-4517-b0a7-fee2a7a20b5b"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 74,
+      "old": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I filed taxes last year.",
+      "new": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I filed taxes last year — let me know if you need any details or copies.",
+      "old_answer": "Yes, I filed taxes last year.",
+      "new_answer": "Yes, I filed taxes last year — let me know if you need any details or copies."
+    }
+  ]
+}

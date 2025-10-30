@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_021/0de1f91e-cb82-4465-acd1-8c26df7bac55",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 35,
+      "old": "Interviewer: Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.\n\nAgent: Over the past year, I've felt a mix of anxiety due to uncertainties, but also gratitude for the time spent with family and the support of friends.",
+      "new": "Interviewer: Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.\n\nAgent: Over the past year, I've felt a mix of anxiety about the uncertainties, but also deep gratitude for the time spent with family and the support of friends — and it's made me more motivated to be present for others and to share whatever help I can.",
+      "old_answer": "Over the past year, I've felt a mix of anxiety due to uncertainties, but also gratitude for the time spent with family and the support of friends.",
+      "new_answer": "Over the past year, I've felt a mix of anxiety about the uncertainties, but also deep gratitude for the time spent with family and the support of friends — and it's made me more motivated to be present for others and to share whatever help I can."
+    }
+  ]
+}

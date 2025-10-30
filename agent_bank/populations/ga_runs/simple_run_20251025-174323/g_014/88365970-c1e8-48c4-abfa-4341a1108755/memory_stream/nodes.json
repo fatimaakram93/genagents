@@ -1,0 +1,335 @@
+[
+  {
+    "node_id": 0,
+    "node_type": "observation",
+    "content": "Interviewer: Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.\n\nAgent: I haven't extensively used alternative medicine, but I have tried herbal teas for relaxation and chamomile for better sleep.",
+    "importance": 30,
+    "created": 0,
+    "last_retrieved": 0,
+    "pointer_id": null
+  },
+  {
+    "node_id": 1,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Recently, I've become more aware of environmental issues and have shifted towards supporting policies that address climate change more aggressively.",
+    "importance": 60,
+    "created": 1,
+    "last_retrieved": 1,
+    "pointer_id": null
+  },
+  {
+    "node_id": 2,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Recently, I've become more aware of environmental issues and have shifted towards supporting policies that address climate change more aggressively.",
+    "importance": 60,
+    "created": 2,
+    "last_retrieved": 2,
+    "pointer_id": null
+  },
+  {
+    "node_id": 3,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me all about how you coped with any extra expenses in the past months.\n\nAgent: We coped with extra expenses by cutting down on non-essential purchases and using some savings.",
+    "importance": 30,
+    "created": 3,
+    "last_retrieved": 3,
+    "pointer_id": null
+  },
+  {
+    "node_id": 4,
+    "node_type": "observation",
+    "content": "Interviewer: Did you have more than one job or business, including part time, evening, or weekend work?\n\nAgent: No, I did not have more than one job or business.",
+    "importance": 40,
+    "created": 4,
+    "last_retrieved": 4,
+    "pointer_id": null
+  },
+  {
+    "node_id": 5,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me all about how you coped with any extra expenses in the past months.\n\nAgent: To cope with extra expenses, we've been tightening our budget by cutting down on non-essential spending and sometimes dipping into our savings when necessary.",
+    "importance": 30,
+    "created": 5,
+    "last_retrieved": 5,
+    "pointer_id": null
+  },
+  {
+    "node_id": 6,
+    "node_type": "observation",
+    "content": "Interviewer: Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.\n\nAgent: Yes, occasionally we've used herbal remedies passed down through generations for mild conditions and they seem to work well for us.",
+    "importance": 30,
+    "created": 6,
+    "last_retrieved": 6,
+    "pointer_id": null
+  },
+  {
+    "node_id": 7,
+    "node_type": "observation",
+    "content": "Interviewer: Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.\n\nAgent: Over the past year, I've had a mixture of emotions. I've experienced stress due to changes in my routine but also found joy in small things and personal growth.",
+    "importance": 40,
+    "created": 7,
+    "last_retrieved": 7,
+    "pointer_id": null
+  },
+  {
+    "node_id": 8,
+    "node_type": "observation",
+    "content": "Interviewer: Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.\n\nAgent: Over the past year, I've had a mixture of emotions. I've experienced stress due to changes in my routine but also found joy in small things and personal growth.",
+    "importance": 40,
+    "created": 8,
+    "last_retrieved": 8,
+    "pointer_id": null
+  },
+  {
+    "node_id": 9,
+    "node_type": "observation",
+    "content": "Interviewer: For you, what makes it easy or hard to stay healthy?\n\nAgent: I find it easy to stay healthy because I enjoy physical activities like jogging and cycling. However, a busy schedule can sometimes make it hard to maintain a regular exercise routine.",
+    "importance": 75,
+    "created": 9,
+    "last_retrieved": 9,
+    "pointer_id": null
+  },
+  {
+    "node_id": 10,
+    "node_type": "observation",
+    "content": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+    "importance": 70,
+    "created": 10,
+    "last_retrieved": 10,
+    "pointer_id": null
+  },
+  {
+    "node_id": 11,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.\n\nAgent: There was a time last year when I felt overwhelmed by isolation during the lockdowns, but reaching out to friends and talking about it helped me cope.",
+    "importance": 75,
+    "created": 11,
+    "last_retrieved": 11,
+    "pointer_id": null
+  },
+  {
+    "node_id": 12,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?\n\nAgent: My work schedule is somewhat predictable, but there is some flexibility in adjusting hours if needed.",
+    "importance": 75,
+    "created": 12,
+    "last_retrieved": 12,
+    "pointer_id": null
+  },
+  {
+    "node_id": 13,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.\n\nAgent: There was a time last year when I felt overwhelmed by isolation during the lockdowns, but reaching out to friends and talking about it helped me cope.",
+    "importance": 75,
+    "created": 13,
+    "last_retrieved": 13,
+    "pointer_id": null
+  },
+  {
+    "node_id": 14,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.\n\nAgent: There was one instance last year when I couldn't afford an unexpected car repair right away, but I managed to cover it after adjusting my budget.",
+    "importance": 40,
+    "created": 14,
+    "last_retrieved": 14,
+    "pointer_id": null
+  },
+  {
+    "node_id": 15,
+    "node_type": "observation",
+    "content": "Interviewer: Anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: No, everyone who usually lives here is currently at home.",
+    "importance": 40,
+    "created": 15,
+    "last_retrieved": 15,
+    "pointer_id": null
+  },
+  {
+    "node_id": 16,
+    "node_type": "observation",
+    "content": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+    "importance": 70,
+    "created": 16,
+    "last_retrieved": 16,
+    "pointer_id": null
+  },
+  {
+    "node_id": 17,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?\n\nAgent: My work schedule is somewhat predictable, but there is some flexibility in adjusting hours if needed.",
+    "importance": 75,
+    "created": 17,
+    "last_retrieved": 17,
+    "pointer_id": null
+  },
+  {
+    "node_id": 18,
+    "node_type": "observation",
+    "content": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+    "importance": 70,
+    "created": 18,
+    "last_retrieved": 18,
+    "pointer_id": null
+  },
+  {
+    "node_id": 19,
+    "node_type": "observation",
+    "content": "Interviewer: What race or races do you identify with?\n\nAgent: I identify as White.",
+    "importance": 60,
+    "created": 19,
+    "last_retrieved": 19,
+    "pointer_id": null
+  },
+  {
+    "node_id": 20,
+    "node_type": "observation",
+    "content": "Interviewer: Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?\n\nAgent: My work schedule is somewhat predictable, but there is some flexibility in adjusting hours if needed.",
+    "importance": 75,
+    "created": 20,
+    "last_retrieved": 20,
+    "pointer_id": null
+  },
+  {
+    "node_id": 21,
+    "node_type": "observation",
+    "content": "Interviewer: Who else did you live with?\n\nAgent: I also lived with my younger brother.",
+    "importance": 30,
+    "created": 21,
+    "last_retrieved": 21,
+    "pointer_id": null
+  },
+  {
+    "node_id": 22,
+    "node_type": "observation",
+    "content": "Interviewer: What's the highest degree or grade your mom completed?\n\nAgent: My mom completed a bachelor's degree in education.",
+    "importance": 40,
+    "created": 22,
+    "last_retrieved": 22,
+    "pointer_id": null
+  },
+  {
+    "node_id": 23,
+    "node_type": "observation",
+    "content": "Interviewer: What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?\n\nAgent: I am a graphic designer. My work primarily involves creating visual concepts and designs for digital and print media.",
+    "importance": 85,
+    "created": 23,
+    "last_retrieved": 23,
+    "pointer_id": null
+  },
+  {
+    "node_id": 24,
+    "node_type": "observation",
+    "content": "Interviewer: We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?\n\nAgent: I hope to have a fulfilling career, possibly in engineering like my dad, and to build a family where I can support and care for others and contribute to my community.",
+    "importance": 85,
+    "created": 24,
+    "last_retrieved": 24,
+    "pointer_id": null
+  },
+  {
+    "node_id": 25,
+    "node_type": "observation",
+    "content": "Interviewer: Did your dad work for pay for at least a year while you were growing up?\n\nAgent: Yes, my dad worked for pay throughout my childhood.",
+    "importance": 60,
+    "created": 25,
+    "last_retrieved": 25,
+    "pointer_id": null
+  },
+  {
+    "node_id": 26,
+    "node_type": "observation",
+    "content": "Interviewer: Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?\n\nAgent: Yes, I was born in the United States.",
+    "importance": 70,
+    "created": 26,
+    "last_retrieved": 26,
+    "pointer_id": null
+  },
+  {
+    "node_id": 27,
+    "node_type": "observation",
+    "content": "Interviewer: What race or races do you identify with?\n\nAgent: I identify as White.",
+    "importance": 60,
+    "created": 27,
+    "last_retrieved": 27,
+    "pointer_id": null
+  },
+  {
+    "node_id": 28,
+    "node_type": "observation",
+    "content": "Interviewer: Are you enrolled in school?\n\nAgent: No, I am not currently enrolled in school.",
+    "importance": 70,
+    "created": 28,
+    "last_retrieved": 28,
+    "pointer_id": null
+  },
+  {
+    "node_id": 29,
+    "node_type": "observation",
+    "content": "Interviewer: What is the highest degree or grade you've completed?\n\nAgent: The highest degree I have completed is a Bachelor's degree.",
+    "importance": 40,
+    "created": 29,
+    "last_retrieved": 29,
+    "pointer_id": null
+  },
+  {
+    "node_id": 30,
+    "node_type": "observation",
+    "content": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+    "importance": 70,
+    "created": 30,
+    "last_retrieved": 30,
+    "pointer_id": null
+  },
+  {
+    "node_id": 31,
+    "node_type": "observation",
+    "content": "Interviewer: What's the highest degree or grade your mom completed?\n\nAgent: My mom completed a bachelor's degree in education.",
+    "importance": 40,
+    "created": 31,
+    "last_retrieved": 31,
+    "pointer_id": null
+  },
+  {
+    "node_id": 32,
+    "node_type": "observation",
+    "content": "Interviewer: Did your mom work for pay for at least a year while you were growing up?\n\nAgent: Yes, my mom worked for pay for several years while I was growing up.",
+    "importance": 60,
+    "created": 32,
+    "last_retrieved": 32,
+    "pointer_id": null
+  },
+  {
+    "node_id": 33,
+    "node_type": "observation",
+    "content": "Interviewer: What kind of place did he work for? What kind of business was it? What did they make or do where he worked?\n\nAgent: He worked for an engineering firm that specialized in civil engineering projects, such as building roads and bridges.",
+    "importance": 70,
+    "created": 33,
+    "last_retrieved": 33,
+    "pointer_id": null
+  },
+  {
+    "node_id": 34,
+    "node_type": "observation",
+    "content": "Interviewer: Did you live with both your own mother and father when you were 16?\n\nAgent: Yes, I lived with both my own mother and father when I was 16.",
+    "importance": 60,
+    "created": 34,
+    "last_retrieved": 34,
+    "pointer_id": null
+  },
+  {
+    "node_id": 35,
+    "node_type": "observation",
+    "content": "Interviewer: Did you live with both your own mother and father when you were 16?\n\nAgent: Yes, I lived with both my own mother and father when I was 16.",
+    "importance": 60,
+    "created": 35,
+    "last_retrieved": 35,
+    "pointer_id": null
+  },
+  {
+    "node_id": 36,
+    "node_type": "observation",
+    "content": "Interviewer: And that was the last question I wanted to ask today. Thank you so much again for your time. It was really wonderful getting to know you through this interview.\n\nAgent: Thank you for the opportunity to share my experiences. It was great speaking with you too.",
+    "importance": 40,
+    "created": 36,
+    "last_retrieved": 36,
+    "pointer_id": null
+  }
+]

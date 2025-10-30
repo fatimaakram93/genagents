@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/9ffaa2d1-ac1b-4ef9-a9fb-3d7399728e8c",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/9a028301-b33d-4507-97f9-2f21fe9e3e1c",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/9a028301-b33d-4507-97f9-2f21fe9e3e1c"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 21,
+      "old": "Interviewer: Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.\n\nAgent: Over the past year, our bills have fluctuated mainly due to seasonal changes. In winter, heating costs rise significantly, while summer brings higher electricity costs due to air conditioning. Holidays and birthdays also contribute to increased expenses during certain months.",
+      "new": "Interviewer: Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.\n\nAgent: Over the past year, our bills have fluctuated mainly due to seasonal changes. In winter, heating costs rise significantly, while summer brings higher electricity costs from air conditioning. We also see spikes around holidays and birthdays. If you’d like, we can review usage patterns together and identify simple steps to smooth those peaks.",
+      "old_answer": "Over the past year, our bills have fluctuated mainly due to seasonal changes. In winter, heating costs rise significantly, while summer brings higher electricity costs due to air conditioning. Holidays and birthdays also contribute to increased expenses during certain months.",
+      "new_answer": "Over the past year, our bills have fluctuated mainly due to seasonal changes. In winter, heating costs rise significantly, while summer brings higher electricity costs from air conditioning. We also see spikes around holidays and birthdays. If you’d like, we can review usage patterns together and identify simple steps to smooth those peaks."
+    }
+  ]
+}

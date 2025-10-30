@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/4b08af5d-4420-4e63-a303-567966966678",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 63,
+      "old": "Interviewer: Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?\n\nAgent: I have never been married, but I am currently living with my romantic partner.",
+      "new": "Interviewer: Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?\n\nAgent: I haven't been married; I'm currently living with my romantic partner. If you'd like, I can share more about our situation.",
+      "old_answer": "I have never been married, but I am currently living with my romantic partner.",
+      "new_answer": "I haven't been married; I'm currently living with my romantic partner. If you'd like, I can share more about our situation."
+    }
+  ]
+}

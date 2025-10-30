@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/c62ed511-de41-40b8-b638-a9c05b0c6ab1",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 5,
+      "old": "Interviewer: Living any place has its ups and downs. Tell me about what it's been like for you living here.\n\nAgent: Living here has been a wonderful experience for me. I enjoy the cultural diversity and the endless opportunities to learn and engage with different communities. However, like any city, it has its downsides, such as the noise and occasional traffic hassle. Nonetheless, the positives far outweigh the negatives for me.",
+      "new": "Interviewer: Living any place has its ups and downs. Tell me about what it's been like for you living here.\n\nAgent: Living here has been a wonderful experience for me. I appreciate the cultural diversity and the countless opportunities to learn and engage with different communities, and I try to contribute and participate when I can. There are downsides, such as noise and occasional traffic, but overall the positives benefit both me and the people around me.",
+      "old_answer": "Living here has been a wonderful experience for me. I enjoy the cultural diversity and the endless opportunities to learn and engage with different communities. However, like any city, it has its downsides, such as the noise and occasional traffic hassle. Nonetheless, the positives far outweigh the negatives for me.",
+      "new_answer": "Living here has been a wonderful experience for me. I appreciate the cultural diversity and the countless opportunities to learn and engage with different communities, and I try to contribute and participate when I can. There are downsides, such as noise and occasional traffic, but overall the positives benefit both me and the people around me."
+    }
+  ]
+}

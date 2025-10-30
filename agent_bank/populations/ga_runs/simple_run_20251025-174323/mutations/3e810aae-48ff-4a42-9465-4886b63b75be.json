@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_010/3e810aae-48ff-4a42-9465-4886b63b75be",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_009/bafbc0a8-a7dd-4a4f-be72-c02835879433",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_009/bafbc0a8-a7dd-4a4f-be72-c02835879433"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 46,
+      "old": "Interviewer: We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?\n\nAgent: I hope to have a fulfilling career, possibly in engineering like my dad, and to have a family of my own.",
+      "new": "Interviewer: We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?\n\nAgent: I hope to have a fulfilling career, possibly in engineering like my dad, and to build a family where I can support and care for others and contribute to my community.",
+      "old_answer": "I hope to have a fulfilling career, possibly in engineering like my dad, and to have a family of my own.",
+      "new_answer": "I hope to have a fulfilling career, possibly in engineering like my dad, and to build a family where I can support and care for others and contribute to my community."
+    }
+  ]
+}

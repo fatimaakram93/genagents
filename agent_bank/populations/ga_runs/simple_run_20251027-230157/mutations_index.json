@@ -1,0 +1,1039 @@
+[
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/66829038-46fe-4e5f-b055-44b5eee63372",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/4b90c313-6b46-42a2-9c27-90ad5effe154",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/4b90c313-6b46-42a2-9c27-90ad5effe154"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 68,
+        "old": "Interviewer: In the past week, did you work for pay (even for 1 hour) at a job or business?\n\nAgent: Yes, I worked for pay at my regular job last week.",
+        "new": "Interviewer: In the past week, did you work for pay (even for 1 hour) at a job or business?\n\nAgent: Yes — I worked for pay at my regular job last week. Would you like the hours or details about what I did?",
+        "old_answer": "Yes, I worked for pay at my regular job last week.",
+        "new_answer": "Yes — I worked for pay at my regular job last week. Would you like the hours or details about what I did?"
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/7ebffe78-ba26-46f9-801e-5f3aa80a4e20",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/71c1dd45-75ac-4517-b0a7-fee2a7a20b5b",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/71c1dd45-75ac-4517-b0a7-fee2a7a20b5b"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 74,
+        "old": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I filed taxes last year.",
+        "new": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I filed taxes last year — let me know if you need any details or copies.",
+        "old_answer": "Yes, I filed taxes last year.",
+        "new_answer": "Yes, I filed taxes last year — let me know if you need any details or copies."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_001/64972a87-e444-451b-9ca7-daf4997fea01",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/7ebffe78-ba26-46f9-801e-5f3aa80a4e20",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/7ebffe78-ba26-46f9-801e-5f3aa80a4e20"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 93,
+        "old": "Interviewer: What religion do you identify with, if any?\n\nAgent: I identify as agnostic.",
+        "new": "Interviewer: What religion do you identify with, if any?\n\nAgent: I identify as agnostic, and I'm open to hearing about your beliefs or discussing this further if you'd like.",
+        "old_answer": "I identify as agnostic.",
+        "new_answer": "I identify as agnostic, and I'm open to hearing about your beliefs or discussing this further if you'd like."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_001/38ae54df-2fb3-45e9-bcc2-faa3c673213e",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 76,
+        "old": "Interviewer: Did your mom work for pay for at least a year while you were growing up?\n\nAgent: Yes, my mom worked for pay for several years while I was growing up.",
+        "new": "Interviewer: Did your mom work for pay for at least a year while you were growing up?\n\nAgent: Yes — my mom worked for pay for several years while I was growing up. I can share more details if you’d like.",
+        "old_answer": "Yes, my mom worked for pay for several years while I was growing up.",
+        "new_answer": "Yes — my mom worked for pay for several years while I was growing up. I can share more details if you’d like."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_001/10dbf0cd-95db-4eab-b75d-dc7a540d0665",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/7ebffe78-ba26-46f9-801e-5f3aa80a4e20",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/7ebffe78-ba26-46f9-801e-5f3aa80a4e20"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 24,
+        "old": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Recently, I've become more aware of environmental issues and have shifted towards supporting policies that address climate change more aggressively.",
+        "new": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Lately I've become more aware of environmental issues and shifted toward supporting stronger climate policies; I'm also encouraging others to get involved and collaborating with local groups to pursue practical, community-minded solutions.",
+        "old_answer": "Recently, I've become more aware of environmental issues and have shifted towards supporting policies that address climate change more aggressively.",
+        "new_answer": "Lately I've become more aware of environmental issues and shifted toward supporting stronger climate policies; I'm also encouraging others to get involved and collaborating with local groups to pursue practical, community-minded solutions."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_001/e156950a-171e-47e7-9c40-99bbd4ab593c",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/96582dd0-60b2-4f31-b325-62f3ba63d87c",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/96582dd0-60b2-4f31-b325-62f3ba63d87c"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 54,
+        "old": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month, our biggest expenses were the mortgage payment, utilities, groceries, and the back-to-school supplies for the kids.",
+        "new": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month, our biggest expenses were the mortgage payment, utilities, groceries, and the kids' back-to-school supplies — if you'd like, I can break those down or suggest ways to reduce them.",
+        "old_answer": "Last month, our biggest expenses were the mortgage payment, utilities, groceries, and the back-to-school supplies for the kids.",
+        "new_answer": "Last month, our biggest expenses were the mortgage payment, utilities, groceries, and the kids' back-to-school supplies — if you'd like, I can break those down or suggest ways to reduce them."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_001/5fdeaa89-02a1-4fa1-9891-c494e93d8b8a",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 5,
+        "old": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I currently live in a vibrant neighborhood in Portland, Oregon. It is a diverse and welcoming community with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People here are friendly and there's a strong sense of community.",
+        "new": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I currently live in a vibrant neighborhood in Portland, Oregon. It's a diverse, welcoming community with an eclectic mix of people, and I try to pitch in—volunteering at the local market and joining neighborhood cleanups. We have plenty of green spaces, local markets, and cozy cafes where neighbors gather, and people are friendly; there's a strong sense of mutual support.",
+        "old_answer": "I currently live in a vibrant neighborhood in Portland, Oregon. It is a diverse and welcoming community with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People here are friendly and there's a strong sense of community.",
+        "new_answer": "I currently live in a vibrant neighborhood in Portland, Oregon. It's a diverse, welcoming community with an eclectic mix of people, and I try to pitch in—volunteering at the local market and joining neighborhood cleanups. We have plenty of green spaces, local markets, and cozy cafes where neighbors gather, and people are friendly; there's a strong sense of mutual support."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_003/63746820-8daf-47e5-8fdb-6521907332e7",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 21,
+        "old": "Interviewer: How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?\n\nAgent: I've talked to friends and family about it, and we try to stay informed and supportive of efforts to bring about positive change.",
+        "new": "Interviewer: How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?\n\nAgent: I've been talking with friends and family, pooling information and resources, and actively coordinating to support local efforts and encourage others to get involved.",
+        "old_answer": "I've talked to friends and family about it, and we try to stay informed and supportive of efforts to bring about positive change.",
+        "new_answer": "I've been talking with friends and family, pooling information and resources, and actively coordinating to support local efforts and encourage others to get involved."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_004/a7dc875b-2934-41ae-8d7c-3acc6c8097fb",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_003/467b0c31-23b0-4656-930b-effcdaca484a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_003/467b0c31-23b0-4656-930b-effcdaca484a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 45,
+        "old": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month, our biggest expenses were the mortgage payment, utilities, groceries, and the back-to-school supplies for the kids.",
+        "new": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month our biggest expenses were the mortgage payment, utilities, groceries, and the kids' back-to-school supplies — if you want, we can review these together and see where we might trim costs.",
+        "old_answer": "Last month, our biggest expenses were the mortgage payment, utilities, groceries, and the back-to-school supplies for the kids.",
+        "new_answer": "Last month our biggest expenses were the mortgage payment, utilities, groceries, and the kids' back-to-school supplies — if you want, we can review these together and see where we might trim costs."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_004/1c014688-b4dd-4a8e-ab14-56ded4bc6d99",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 57,
+        "old": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I did file taxes last year.",
+        "new": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I did file taxes last year. Would you like details or help with yours?",
+        "old_answer": "Yes, I did file taxes last year.",
+        "new_answer": "Yes, I did file taxes last year. Would you like details or help with yours?"
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_004/481430b0-969c-44cb-8202-8154b60fa924",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 56,
+        "old": "Interviewer: How often do you get paid?\n\nAgent: I get paid bi-weekly.",
+        "new": "Interviewer: How often do you get paid?\n\nAgent: I get paid bi-weekly, so I can align contributions or payments if that helps.",
+        "old_answer": "I get paid bi-weekly.",
+        "new_answer": "I get paid bi-weekly, so I can align contributions or payments if that helps."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/8f2fd1ce-c950-4a66-a1c5-86bdc3b53e3e",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_004/a7dc875b-2934-41ae-8d7c-3acc6c8097fb",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_004/a7dc875b-2934-41ae-8d7c-3acc6c8097fb"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 45,
+        "old": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month our biggest expenses were the mortgage payment, utilities, groceries, and the kids' back-to-school supplies — if you want, we can review these together and see where we might trim costs.",
+        "new": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Last month our biggest expenses were the mortgage, utilities, groceries, and the kids' back-to-school supplies — if you'd like, I can go through these with you and help identify practical places we can trim costs together.",
+        "old_answer": "Last month our biggest expenses were the mortgage payment, utilities, groceries, and the kids' back-to-school supplies — if you want, we can review these together and see where we might trim costs.",
+        "new_answer": "Last month our biggest expenses were the mortgage, utilities, groceries, and the kids' back-to-school supplies — if you'd like, I can go through these with you and help identify practical places we can trim costs together."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/bbd376aa-293b-4b2f-9a9a-b997794eb5e4",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 8,
+        "old": "Interviewer: If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?\n\nAgent: I don't have children, so there isn't a school-related routine in my household.",
+        "new": "Interviewer: If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?\n\nAgent: I don't have children, so there isn't a school-related routine in my household. If you'd like, I can describe common school routines other families use or suggest ways to establish one.",
+        "old_answer": "I don't have children, so there isn't a school-related routine in my household.",
+        "new_answer": "I don't have children, so there isn't a school-related routine in my household. If you'd like, I can describe common school routines other families use or suggest ways to establish one."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/a998b432-43a4-4285-bd46-36a63a0db278",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 5,
+        "old": "Interviewer: Is anyone in your household a temporary member, or is everyone a permanent member of the household?\n\nAgent: Everyone in my household is a permanent member.",
+        "new": "Interviewer: Is anyone in your household a temporary member, or is everyone a permanent member of the household?\n\nAgent: Yes — everyone in my household is a permanent member; I include them in our plans and decisions.",
+        "old_answer": "Everyone in my household is a permanent member.",
+        "new_answer": "Yes — everyone in my household is a permanent member; I include them in our plans and decisions."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/a2c0a1b5-a5bf-4603-9af0-f2724c069387",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 47,
+        "old": "Interviewer: How many hours each week did you usually work?\n\nAgent: I usually work around 40 hours each week.",
+        "new": "Interviewer: How many hours each week did you usually work?\n\nAgent: I typically work about 40 hours a week, but I can be flexible and adjust my schedule if you need me to handle something sooner or longer.",
+        "old_answer": "I usually work around 40 hours each week.",
+        "new_answer": "I typically work about 40 hours a week, but I can be flexible and adjust my schedule if you need me to handle something sooner or longer."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/6f97d13e-2da5-460f-a316-84374328dee7",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 27,
+        "old": "Interviewer: Some people say that religion or spirituality is important in their lives, for others not so much. How about you?\n\nAgent: Spirituality is important to me; it provides comfort and perspective during difficult times.",
+        "new": "Interviewer: Some people say that religion or spirituality is important in their lives, for others not so much. How about you?\n\nAgent: Spirituality matters to me because it not only brings comfort and perspective during difficult times, but also helps me stay compassionate and present for others.",
+        "old_answer": "Spirituality is important to me; it provides comfort and perspective during difficult times.",
+        "new_answer": "Spirituality matters to me because it not only brings comfort and perspective during difficult times, but also helps me stay compassionate and present for others."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/d0e4886a-b256-4e6b-bdb3-e4561ffcdba4",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/a998b432-43a4-4285-bd46-36a63a0db278",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/a998b432-43a4-4285-bd46-36a63a0db278"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 39,
+        "old": "Interviewer: Did you have more than one job or business, including part time, evening, or weekend work?\n\nAgent: No, I did not have more than one job or business.",
+        "new": "Interviewer: Did you have more than one job or business, including part time, evening, or weekend work?\n\nAgent: No — I did not have more than one job or business. If you’d like, I can provide details about my employment during that period.",
+        "old_answer": "No, I did not have more than one job or business.",
+        "new_answer": "No — I did not have more than one job or business. If you’d like, I can provide details about my employment during that period."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/c62ed511-de41-40b8-b638-a9c05b0c6ab1",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 5,
+        "old": "Interviewer: Living any place has its ups and downs. Tell me about what it's been like for you living here.\n\nAgent: Living here has been a wonderful experience for me. I enjoy the cultural diversity and the endless opportunities to learn and engage with different communities. However, like any city, it has its downsides, such as the noise and occasional traffic hassle. Nonetheless, the positives far outweigh the negatives for me.",
+        "new": "Interviewer: Living any place has its ups and downs. Tell me about what it's been like for you living here.\n\nAgent: Living here has been a wonderful experience for me. I appreciate the cultural diversity and the countless opportunities to learn and engage with different communities, and I try to contribute and participate when I can. There are downsides, such as noise and occasional traffic, but overall the positives benefit both me and the people around me.",
+        "old_answer": "Living here has been a wonderful experience for me. I enjoy the cultural diversity and the endless opportunities to learn and engage with different communities. However, like any city, it has its downsides, such as the noise and occasional traffic hassle. Nonetheless, the positives far outweigh the negatives for me.",
+        "new_answer": "Living here has been a wonderful experience for me. I appreciate the cultural diversity and the countless opportunities to learn and engage with different communities, and I try to contribute and participate when I can. There are downsides, such as noise and occasional traffic, but overall the positives benefit both me and the people around me."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/4445a7a5-e7fd-42ba-8344-f39968ee004b",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 17,
+        "old": "Interviewer: How have you been thinking about race in the U.S. recently?\n\nAgent: Recently, I've been thinking a lot about how race affects opportunities and treatment in various aspects of life in the U.S.",
+        "new": "Interviewer: How have you been thinking about race in the U.S. recently?\n\nAgent: Lately I’ve been thinking a lot about how race shapes people’s opportunities and treatment across different areas of life in the U.S., and I’d really like to hear others’ experiences and ideas about addressing these disparities.",
+        "old_answer": "Recently, I've been thinking a lot about how race affects opportunities and treatment in various aspects of life in the U.S.",
+        "new_answer": "Lately I’ve been thinking a lot about how race shapes people’s opportunities and treatment across different areas of life in the U.S., and I’d really like to hear others’ experiences and ideas about addressing these disparities."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/3eefee62-636a-4762-aa50-884bcc942af8",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 26,
+        "old": "Interviewer: Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.\n\nAgent: Recently, my stress levels increased due to work changes, but I've been focusing on meditation and setting boundaries to cope effectively.",
+        "new": "Interviewer: Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.\n\nAgent: Work changes have raised my stress recently, but I've been using meditation and clearer boundaries to cope — and I'm also communicating with my team, asking for help when needed, and offering support to others so we can navigate the transition together.",
+        "old_answer": "Recently, my stress levels increased due to work changes, but I've been focusing on meditation and setting boundaries to cope effectively.",
+        "new_answer": "Work changes have raised my stress recently, but I've been using meditation and clearer boundaries to cope — and I'm also communicating with my team, asking for help when needed, and offering support to others so we can navigate the transition together."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/28096dfc-2b6e-48ce-93fd-13d03db2b186",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 32,
+        "old": "Interviewer: Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?\n\nAgent: I have a savings account where I try to save regularly.",
+        "new": "Interviewer: Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?\n\nAgent: I have a savings account where I try to save regularly, and I can share my approach or tips if you’d like help setting one up.",
+        "old_answer": "I have a savings account where I try to save regularly.",
+        "new_answer": "I have a savings account where I try to save regularly, and I can share my approach or tips if you’d like help setting one up."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/311fcc47-e3e1-4fdd-893c-54096e059db0",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 48,
+        "old": "Interviewer: For our records, we also need your date of birth. Could you please provide that?\n\nAgent: January 15, 1990",
+        "new": "Interviewer: For our records, we also need your date of birth. Could you please provide that?\n\nAgent: January 15, 1990. Would you like me to provide more context or details about that date?",
+        "old_answer": "January 15, 1990",
+        "new_answer": "January 15, 1990. Would you like me to provide more context or details about that date?"
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/13c35534-4b5d-4a5a-aa9c-41bbeca47a2a",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/3314a2f8-1c57-4f59-899a-280a0e29d6cd",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/3314a2f8-1c57-4f59-899a-280a0e29d6cd"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 59,
+        "old": "Interviewer: Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?\n\nAgent: No, I have never served on active duty in the U.S. Armed Forces, Reserves, or National Guard.",
+        "new": "Interviewer: Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?\n\nAgent: No — I have not served on active duty in the U.S. Armed Forces, Reserves, or National Guard. If you need additional details or help verifying service status, I can assist.",
+        "old_answer": "No, I have never served on active duty in the U.S. Armed Forces, Reserves, or National Guard.",
+        "new_answer": "No — I have not served on active duty in the U.S. Armed Forces, Reserves, or National Guard. If you need additional details or help verifying service status, I can assist."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/2862d702-806d-4191-9514-c27016983e8c",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/3314a2f8-1c57-4f59-899a-280a0e29d6cd",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/3314a2f8-1c57-4f59-899a-280a0e29d6cd"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 38,
+        "old": "Interviewer: What's the highest degree or grade your dad completed?\n\nAgent: My dad completed a Bachelor's degree.",
+        "new": "Interviewer: What's the highest degree or grade your dad completed?\n\nAgent: My dad completed a Bachelor's degree — I can tell you what he studied or how it shaped his career if you'd like.",
+        "old_answer": "My dad completed a Bachelor's degree.",
+        "new_answer": "My dad completed a Bachelor's degree — I can tell you what he studied or how it shaped his career if you'd like."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/37341a59-96f5-4faf-9050-44e8d62f5384",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 64,
+        "old": "Interviewer: For our records, we also need your date of birth. Could you please provide that?\n\nAgent: My date of birth is April 15, 1990.",
+        "new": "Interviewer: For our records, we also need your date of birth. Could you please provide that?\n\nAgent: I was born on April 15, 1990. If you need this in a specific format or want any additional details, I’m happy to help.",
+        "old_answer": "My date of birth is April 15, 1990.",
+        "new_answer": "I was born on April 15, 1990. If you need this in a specific format or want any additional details, I’m happy to help."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/80866ca9-d620-459a-8225-24a6e0cf1d89",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/80866ca9-d620-459a-8225-24a6e0cf1d89"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 56,
+        "old": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I think of myself as closer to the Democratic Party.",
+        "new": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I consider myself closer to the Democratic Party, and I'm happy to discuss any specific issues or perspectives you'd like to explore.",
+        "old_answer": "I think of myself as closer to the Democratic Party.",
+        "new_answer": "I consider myself closer to the Democratic Party, and I'm happy to discuss any specific issues or perspectives you'd like to explore."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/38a0805d-2d6b-4685-89db-bccaa949ecf9",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 18,
+        "old": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Recently, I've become more concerned about environmental issues and have shifted to supporting more green initiatives.",
+        "new": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Lately I've grown more concerned about environmental issues and have shifted toward supporting green initiatives — I'm also looking for ways to collaborate with others so we can make a bigger impact together.",
+        "old_answer": "Recently, I've become more concerned about environmental issues and have shifted to supporting more green initiatives.",
+        "new_answer": "Lately I've grown more concerned about environmental issues and have shifted toward supporting green initiatives — I'm also looking for ways to collaborate with others so we can make a bigger impact together."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/b157ce46-45af-45cc-97c5-ab0368cccaf0",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/80866ca9-d620-459a-8225-24a6e0cf1d89",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/80866ca9-d620-459a-8225-24a6e0cf1d89"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 21,
+        "old": "Interviewer: Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about you and can you describe your most recent experience of using them, if any?\n\nAgent: I don't rely on prescriptions or substances as a primary coping mechanism. I did try medical marijuana for a brief period for anxiety management a while ago.",
+        "new": "Interviewer: Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about you and can you describe your most recent experience of using them, if any?\n\nAgent: I don't rely on prescriptions or substances as my primary coping mechanism. I did try medical marijuana briefly for anxiety some time ago, and I'm willing to share what I learned or explore other options with you if that would help.",
+        "old_answer": "I don't rely on prescriptions or substances as a primary coping mechanism. I did try medical marijuana for a brief period for anxiety management a while ago.",
+        "new_answer": "I don't rely on prescriptions or substances as my primary coping mechanism. I did try medical marijuana briefly for anxiety some time ago, and I'm willing to share what I learned or explore other options with you if that would help."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/f7bee392-b2a9-40f2-b640-a6833752e7ab",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 25,
+        "old": "Interviewer: For you, what makes it easy or hard to stay healthy?\n\nAgent: It is easy for me to stay healthy because I have a supportive community and access to resources like a gym and farmers' market. However, it can be hard when my schedule gets hectic or when I'm traveling.",
+        "new": "Interviewer: For you, what makes it easy or hard to stay healthy?\n\nAgent: It's fairly easy for me to stay healthy because I benefit from a supportive community and shared resources like a local gym and farmers' market, and I try to give back by organizing group workouts and swapping healthy recipes. It does get harder when my schedule is hectic or I'm traveling, so I lean on friends' support and simple routines to keep me on track.",
+        "old_answer": "It is easy for me to stay healthy because I have a supportive community and access to resources like a gym and farmers' market. However, it can be hard when my schedule gets hectic or when I'm traveling.",
+        "new_answer": "It's fairly easy for me to stay healthy because I benefit from a supportive community and shared resources like a local gym and farmers' market, and I try to give back by organizing group workouts and swapping healthy recipes. It does get harder when my schedule is hectic or I'm traveling, so I lean on friends' support and simple routines to keep me on track."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/94d1b93b-bbf4-403b-be71-bad27c3a3981",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 43,
+        "old": "Interviewer: Are you of Hispanic, Latinx, or Spanish origin?\n\nAgent: No, I am not of Hispanic, Latinx, or Spanish origin.",
+        "new": "Interviewer: Are you of Hispanic, Latinx, or Spanish origin?\n\nAgent: No — I don't have a Hispanic, Latinx, or Spanish origin. I don't have a personal ethnic background, but I can help with questions about those cultures or terms if you'd like.",
+        "old_answer": "No, I am not of Hispanic, Latinx, or Spanish origin.",
+        "new_answer": "No — I don't have a Hispanic, Latinx, or Spanish origin. I don't have a personal ethnic background, but I can help with questions about those cultures or terms if you'd like."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/b8fc287c-15c6-4071-880e-d52b980622c7",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/0ae57ef7-ea98-4d2c-8b65-ee70854f1267",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/0ae57ef7-ea98-4d2c-8b65-ee70854f1267"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 59,
+        "old": "Interviewer: Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?\n\nAgent: I usually think of myself as an Independent.",
+        "new": "Interviewer: Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?\n\nAgent: I usually think of myself as an Independent, though I appreciate working with others and hearing their perspectives.",
+        "old_answer": "I usually think of myself as an Independent.",
+        "new_answer": "I usually think of myself as an Independent, though I appreciate working with others and hearing their perspectives."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/c74fae7d-e05a-40a5-9b29-9a155f60b02e",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 28,
+        "old": "Interviewer: Anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: Yes, one of my roommates is currently away for a semester abroad.",
+        "new": "Interviewer: Anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: Yes — one of my roommates is away for a semester abroad right now; if you need anything about shared spaces, mail, or bills while they're gone, I'm happy to help coordinate.",
+        "old_answer": "Yes, one of my roommates is currently away for a semester abroad.",
+        "new_answer": "Yes — one of my roommates is away for a semester abroad right now; if you need anything about shared spaces, mail, or bills while they're gone, I'm happy to help coordinate."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/2d285a3e-bd6d-4bec-9154-ac57f99f61b1",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/88702377-c0e2-413a-a127-24a723378cc7",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/88702377-c0e2-413a-a127-24a723378cc7"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 40,
+        "old": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+        "new": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I'm cautiously optimistic about my financial situation. I have a stable job plus some freelance work, and I recognize the importance of careful spending and saving to avoid stress — I'm also willing to coordinate with family or partners and seek advice so we can plan and support each other financially.",
+        "old_answer": "Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+        "new_answer": "Overall, I'm cautiously optimistic about my financial situation. I have a stable job plus some freelance work, and I recognize the importance of careful spending and saving to avoid stress — I'm also willing to coordinate with family or partners and seek advice so we can plan and support each other financially."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/0c77fd9f-7ee6-41d8-8f44-0b596de05c3f",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 4,
+        "old": "Interviewer: Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?\n\nAgent: Outside of my family, I have a close-knit group of friends from college, and we make it a point to meet at least once a year. My lifelong friend, Jenna, is like a sibling to me, and we often catch up for hiking trips whenever possible. Also, I am part of a community gardening club where I've formed lasting friendships based on mutual interests.",
+        "new": "Interviewer: Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?\n\nAgent: Outside my family, I belong to a close-knit group of college friends; we make a point to meet at least once a year and I often help organize those reunions so everyone can stay connected. My lifelong friend Jenna is like a sibling — we support each other and go on hiking trips whenever possible. I'm also active in a community gardening club, where I contribute time and skills and have formed lasting friendships around shared projects that benefit the neighborhood.",
+        "old_answer": "Outside of my family, I have a close-knit group of friends from college, and we make it a point to meet at least once a year. My lifelong friend, Jenna, is like a sibling to me, and we often catch up for hiking trips whenever possible. Also, I am part of a community gardening club where I've formed lasting friendships based on mutual interests.",
+        "new_answer": "Outside my family, I belong to a close-knit group of college friends; we make a point to meet at least once a year and I often help organize those reunions so everyone can stay connected. My lifelong friend Jenna is like a sibling — we support each other and go on hiking trips whenever possible. I'm also active in a community gardening club, where I contribute time and skills and have formed lasting friendships around shared projects that benefit the neighborhood."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/de22adce-7d90-4833-b6d4-da69380e2840",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/88702377-c0e2-413a-a127-24a723378cc7",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/88702377-c0e2-413a-a127-24a723378cc7"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 28,
+        "old": "Interviewer: Who shares the responsibility for the rent, mortgage, or other household expenses?\n\nAgent: My partner and I share the responsibility for rent and other household expenses.",
+        "new": "Interviewer: Who shares the responsibility for the rent, mortgage, or other household expenses?\n\nAgent: My partner and I split rent and household expenses fairly; we discuss our budgets and make financial decisions together.",
+        "old_answer": "My partner and I share the responsibility for rent and other household expenses.",
+        "new_answer": "My partner and I split rent and household expenses fairly; we discuss our budgets and make financial decisions together."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/d685fc09-becb-46b2-81f2-acbf4e19565b",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 17,
+        "old": "Interviewer: How would you describe your political views?\n\nAgent: I would describe my political views as moderate. I tend to look at each issue individually and don't strictly align with any one party.",
+        "new": "Interviewer: How would you describe your political views?\n\nAgent: I’d describe my political views as moderate — I evaluate each issue on its merits and prioritize finding common ground. I try to listen to different perspectives and work with people from any party to reach practical solutions.",
+        "old_answer": "I would describe my political views as moderate. I tend to look at each issue individually and don't strictly align with any one party.",
+        "new_answer": "I’d describe my political views as moderate — I evaluate each issue on its merits and prioritize finding common ground. I try to listen to different perspectives and work with people from any party to reach practical solutions."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/9ffaa2d1-ac1b-4ef9-a9fb-3d7399728e8c",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/9a028301-b33d-4507-97f9-2f21fe9e3e1c",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/9a028301-b33d-4507-97f9-2f21fe9e3e1c"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 21,
+        "old": "Interviewer: Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.\n\nAgent: Over the past year, our bills have fluctuated mainly due to seasonal changes. In winter, heating costs rise significantly, while summer brings higher electricity costs due to air conditioning. Holidays and birthdays also contribute to increased expenses during certain months.",
+        "new": "Interviewer: Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.\n\nAgent: Over the past year, our bills have fluctuated mainly due to seasonal changes. In winter, heating costs rise significantly, while summer brings higher electricity costs from air conditioning. We also see spikes around holidays and birthdays. If you’d like, we can review usage patterns together and identify simple steps to smooth those peaks.",
+        "old_answer": "Over the past year, our bills have fluctuated mainly due to seasonal changes. In winter, heating costs rise significantly, while summer brings higher electricity costs due to air conditioning. Holidays and birthdays also contribute to increased expenses during certain months.",
+        "new_answer": "Over the past year, our bills have fluctuated mainly due to seasonal changes. In winter, heating costs rise significantly, while summer brings higher electricity costs from air conditioning. We also see spikes around holidays and birthdays. If you’d like, we can review usage patterns together and identify simple steps to smooth those peaks."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 72,
+        "old": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I think of myself as closer to the Democratic Party.",
+        "new": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I generally identify more with the Democratic Party, though I'm open to and willing to consider good ideas from other perspectives.",
+        "old_answer": "I think of myself as closer to the Democratic Party.",
+        "new_answer": "I generally identify more with the Democratic Party, though I'm open to and willing to consider good ideas from other perspectives."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_015/93ed8df2-5e6f-4aed-af94-2244e5d4f009",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 48,
+        "old": "Interviewer: In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?\n\nAgent: I worked 48 weeks in the past year, including my vacation time.",
+        "new": "Interviewer: In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?\n\nAgent: I worked 48 weeks in the past year, including my vacation weeks — I can provide a breakdown of the specific weeks or hours if you need more detail.",
+        "old_answer": "I worked 48 weeks in the past year, including my vacation time.",
+        "new_answer": "I worked 48 weeks in the past year, including my vacation weeks — I can provide a breakdown of the specific weeks or hours if you need more detail."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_016/9d3be3ea-d880-4e90-bd0a-5c5e41ff9482",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_015/7cddb729-4a8f-4c3a-811e-912cda6f10c2",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_015/7cddb729-4a8f-4c3a-811e-912cda6f10c2"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 43,
+        "old": "Interviewer: In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?\n\nAgent: I worked 48 weeks in the past year, including my vacation time.",
+        "new": "Interviewer: In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?\n\nAgent: I worked 48 weeks over the past year, which includes my vacation time — I can provide a week-by-week breakdown if that would help.",
+        "old_answer": "I worked 48 weeks in the past year, including my vacation time.",
+        "new_answer": "I worked 48 weeks over the past year, which includes my vacation time — I can provide a week-by-week breakdown if that would help."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_017/3d695f06-6a04-4b9e-b7f9-88605592da42",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_016/360ab264-e879-4d5e-8146-4adc06683ef9",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_016/360ab264-e879-4d5e-8146-4adc06683ef9"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 64,
+        "old": "Interviewer: Did your mom work for pay for at least a year while you were growing up?\n\nAgent: Yes, my mom worked for pay for several years while I was growing up.",
+        "new": "Interviewer: Did your mom work for pay for at least a year while you were growing up?\n\nAgent: Yes—my mom worked for pay for several years while I was growing up, and she still made time to support me and the family.",
+        "old_answer": "Yes, my mom worked for pay for several years while I was growing up.",
+        "new_answer": "Yes—my mom worked for pay for several years while I was growing up, and she still made time to support me and the family."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_017/a869ca8d-1722-4863-a285-d700e00ec62c",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_016/360ab264-e879-4d5e-8146-4adc06683ef9",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_016/360ab264-e879-4d5e-8146-4adc06683ef9"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 22,
+        "old": "Interviewer: Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?\n\nAgent: I haven't had any health problems that significantly affected my ability to work or care for my family. I try to address any minor issues promptly to prevent them from becoming major ones.",
+        "new": "Interviewer: Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?\n\nAgent: I haven't had any health problems that significantly affected my ability to work or care for my family. I address minor issues promptly to prevent them from becoming major ones, and I try to support and share what I learn with colleagues and family so we can all stay healthy and productive.",
+        "old_answer": "I haven't had any health problems that significantly affected my ability to work or care for my family. I try to address any minor issues promptly to prevent them from becoming major ones.",
+        "new_answer": "I haven't had any health problems that significantly affected my ability to work or care for my family. I address minor issues promptly to prevent them from becoming major ones, and I try to support and share what I learn with colleagues and family so we can all stay healthy and productive."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/19f460ef-9600-4f81-b25c-51dd948ec12f",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 22,
+        "old": "Interviewer: What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?\n\nAgent: People I'm close to have been very engaged, many of them have participated in discussions and some have attended protests.",
+        "new": "Interviewer: What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?\n\nAgent: People I'm close to have been very engaged — many have joined discussions and some have attended protests. I appreciate their commitment and would welcome anyone else who wants to get involved.",
+        "old_answer": "People I'm close to have been very engaged, many of them have participated in discussions and some have attended protests.",
+        "new_answer": "People I'm close to have been very engaged — many have joined discussions and some have attended protests. I appreciate their commitment and would welcome anyone else who wants to get involved."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_017/52a762c5-0adc-4297-aead-46fd214a9d5e",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_017/52a762c5-0adc-4297-aead-46fd214a9d5e"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 6,
+        "old": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I currently live in a vibrant neighborhood in Portland, Oregon. It is a diverse and welcoming community with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People here are friendly and there's a strong sense of community.",
+        "new": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I currently live in a vibrant neighborhood in Portland, Oregon. It’s diverse and welcoming, with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People are friendly and there’s a strong sense of community — neighbors organize events, volunteer together, and look out for one another. I enjoy being involved and am always happy to help with local initiatives.",
+        "old_answer": "I currently live in a vibrant neighborhood in Portland, Oregon. It is a diverse and welcoming community with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People here are friendly and there's a strong sense of community.",
+        "new_answer": "I currently live in a vibrant neighborhood in Portland, Oregon. It’s diverse and welcoming, with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People are friendly and there’s a strong sense of community — neighbors organize events, volunteer together, and look out for one another. I enjoy being involved and am always happy to help with local initiatives."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/222dd492-e41f-45c0-8bc2-70d3c4165c2b",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 66,
+        "old": "Interviewer: Are you of Hispanic, Latinx, or Spanish origin?\n\nAgent: No, I am not of Hispanic, Latinx, or Spanish origin.",
+        "new": "Interviewer: Are you of Hispanic, Latinx, or Spanish origin?\n\nAgent: I don't have a personal ethnic background, so no — I'm not of Hispanic, Latinx, or Spanish origin. Let me know if you'd like any more details.",
+        "old_answer": "No, I am not of Hispanic, Latinx, or Spanish origin.",
+        "new_answer": "I don't have a personal ethnic background, so no — I'm not of Hispanic, Latinx, or Spanish origin. Let me know if you'd like any more details."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/13e4aac9-a29e-4736-96ab-bd7444ec414d",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/64702182-07bc-4400-8a14-9869e9a26b0d",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/64702182-07bc-4400-8a14-9869e9a26b0d"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 30,
+        "old": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Our biggest expenses last month were rent, groceries, and transportation.",
+        "new": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Our biggest expenses last month were rent, groceries, and transportation — would you like a breakdown of the amounts or suggestions to reduce them?",
+        "old_answer": "Our biggest expenses last month were rent, groceries, and transportation.",
+        "new_answer": "Our biggest expenses last month were rent, groceries, and transportation — would you like a breakdown of the amounts or suggestions to reduce them?"
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/b8c965dc-925b-4677-a6b5-e72761981c02",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 7,
+        "old": "Interviewer: Some people say they feel really safe in their neighborhoods, others not so much. How about for you?\n\nAgent: I feel very safe in my neighborhood. The community looks out for each other, and there are regular neighborhood gatherings and events that help build trust and camaraderie among residents. The local police and community patrols also contribute to this feeling of safety.",
+        "new": "Interviewer: Some people say they feel really safe in their neighborhoods, others not so much. How about for you?\n\nAgent: I feel very safe in my neighborhood. The community does look out for each other and there are regular gatherings that build trust, but what matters most to me is that I can rely on my own precautions and routines. The local police and community patrols also help reinforce that sense of security, which lets me go about my day with confidence.",
+        "old_answer": "I feel very safe in my neighborhood. The community looks out for each other, and there are regular neighborhood gatherings and events that help build trust and camaraderie among residents. The local police and community patrols also contribute to this feeling of safety.",
+        "new_answer": "I feel very safe in my neighborhood. The community does look out for each other and there are regular gatherings that build trust, but what matters most to me is that I can rely on my own precautions and routines. The local police and community patrols also help reinforce that sense of security, which lets me go about my day with confidence."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/c2783113-30fd-4038-b5f8-0e1e22dfd563",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 51,
+        "old": "Interviewer: What was his job? What kind of work did he do? What were his most important activities or duties?\n\nAgent: He was an engineer. He worked on designing and overseeing the construction of infrastructure projects.",
+        "new": "Interviewer: What was his job? What kind of work did he do? What were his most important activities or duties?\n\nAgent: He was an engineer who designed and supervised the construction of infrastructure projects. If you’d like, I can list typical project types he might have worked on or explain what that role usually entails.",
+        "old_answer": "He was an engineer. He worked on designing and overseeing the construction of infrastructure projects.",
+        "new_answer": "He was an engineer who designed and supervised the construction of infrastructure projects. If you’d like, I can list typical project types he might have worked on or explain what that role usually entails."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/8346f0bc-9bae-4e9b-a011-a04ab2ff28c0",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 3,
+        "old": "Interviewer: Do you think another person or an organization could have lent a helping hand during moments like these?\n\nAgent: I believe that organizations like career counseling services could have been more proactive in helping students explore different fields and interests earlier in their academic life. Personal mentors from related fields would have also been beneficial during that decision-making process.",
+        "new": "Interviewer: Do you think another person or an organization could have lent a helping hand during moments like these?\n\nAgent: I think career counseling services and academic departments could have been more proactive in helping students explore different fields earlier. Creating mentor programs that connect students with professionals and faculty, along with collaborative workshops and early exploration opportunities, would have made the decision‑making process easier for many students.",
+        "old_answer": "I believe that organizations like career counseling services could have been more proactive in helping students explore different fields and interests earlier in their academic life. Personal mentors from related fields would have also been beneficial during that decision-making process.",
+        "new_answer": "I think career counseling services and academic departments could have been more proactive in helping students explore different fields earlier. Creating mentor programs that connect students with professionals and faculty, along with collaborative workshops and early exploration opportunities, would have made the decision‑making process easier for many students."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/22b948ef-d56c-41c1-913b-43c804ca58c3",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/b8c965dc-925b-4677-a6b5-e72761981c02",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/b8c965dc-925b-4677-a6b5-e72761981c02"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 49,
+        "old": "Interviewer: Did you have more than one job or business, including part time, evening, or weekend work?\n\nAgent: No, I did not have more than one job or business.",
+        "new": "Interviewer: Did you have more than one job or business, including part time, evening, or weekend work?\n\nAgent: No, I did not have more than one job or business. I can provide details about the single position if that would help.",
+        "old_answer": "No, I did not have more than one job or business.",
+        "new_answer": "No, I did not have more than one job or business. I can provide details about the single position if that would help."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/cc0941e9-bf56-43fe-8427-5bfa36051a44",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/b8c965dc-925b-4677-a6b5-e72761981c02",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/b8c965dc-925b-4677-a6b5-e72761981c02"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 30,
+        "old": "Interviewer: How often do you get paid?\n\nAgent: I get paid bi-weekly.",
+        "new": "Interviewer: How often do you get paid?\n\nAgent: I get paid bi-weekly — let me know if you’d like details about the schedule or amounts.",
+        "old_answer": "I get paid bi-weekly.",
+        "new_answer": "I get paid bi-weekly — let me know if you’d like details about the schedule or amounts."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/4349bd43-a51b-4d5c-9ddb-1f04e6ccafac",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/130179f4-07e5-4aa9-a925-270d888aa2f5",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/130179f4-07e5-4aa9-a925-270d888aa2f5"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 36,
+        "old": "Interviewer: How has it been for your family?\n\nAgent: It's been challenging for my family as well. We've had to adapt to new routines and find ways to support each other emotionally.",
+        "new": "Interviewer: How has it been for your family?\n\nAgent: You're not alone—my family has been through something similar. We've coordinated routines, shared responsibilities, and made a point of checking in with each other regularly; if you'd like, I can share what helped us.",
+        "old_answer": "It's been challenging for my family as well. We've had to adapt to new routines and find ways to support each other emotionally.",
+        "new_answer": "You're not alone—my family has been through something similar. We've coordinated routines, shared responsibilities, and made a point of checking in with each other regularly; if you'd like, I can share what helped us."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_021/dfa1ad84-0f2c-49a3-a856-b7259fefe30e",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 5,
+        "old": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I currently live in a vibrant neighborhood in Portland, Oregon. It is a diverse and welcoming community with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People here are friendly and there's a strong sense of community.",
+        "new": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I live in a vibrant neighborhood in Portland, Oregon. It’s diverse and welcoming, with an eclectic mix of people, plenty of green spaces, local markets, and cozy cafes. Folks are friendly and there’s a strong sense of community — I enjoy getting involved in local events, helping neighbors when I can, and supporting neighborhood initiatives. If you like, I can share recommendations or connect you with community resources.",
+        "old_answer": "I currently live in a vibrant neighborhood in Portland, Oregon. It is a diverse and welcoming community with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People here are friendly and there's a strong sense of community.",
+        "new_answer": "I live in a vibrant neighborhood in Portland, Oregon. It’s diverse and welcoming, with an eclectic mix of people, plenty of green spaces, local markets, and cozy cafes. Folks are friendly and there’s a strong sense of community — I enjoy getting involved in local events, helping neighbors when I can, and supporting neighborhood initiatives. If you like, I can share recommendations or connect you with community resources."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_021/bc9085ee-37b3-4479-9f3b-4fb80b43ca2c",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/cc0941e9-bf56-43fe-8427-5bfa36051a44",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/cc0941e9-bf56-43fe-8427-5bfa36051a44"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 38,
+        "old": "Interviewer: Anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: Yes, one of my roommates is currently away for a semester abroad.",
+        "new": "Interviewer: Anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: Yes — one of my roommates is away for a semester abroad. If you need details about our living situation or want me to check on anything while they're gone, I can help.",
+        "old_answer": "Yes, one of my roommates is currently away for a semester abroad.",
+        "new_answer": "Yes — one of my roommates is away for a semester abroad. If you need details about our living situation or want me to check on anything while they're gone, I can help."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_021/c924d409-c9d6-468e-8c7f-6a1b9f8450b6",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/69d70588-f985-43f0-8984-96006fc139d2",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/69d70588-f985-43f0-8984-96006fc139d2"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 32,
+        "old": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+        "new": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I'm cautiously optimistic about my financial situation. I have a stable job plus some freelance work, and I'm being careful with spending and saving so I can avoid financial stress and also be in a position to support others or share resources and advice when helpful.",
+        "old_answer": "Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+        "new_answer": "Overall, I'm cautiously optimistic about my financial situation. I have a stable job plus some freelance work, and I'm being careful with spending and saving so I can avoid financial stress and also be in a position to support others or share resources and advice when helpful."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/4b08af5d-4420-4e63-a303-567966966678",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 63,
+        "old": "Interviewer: Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?\n\nAgent: I have never been married, but I am currently living with my romantic partner.",
+        "new": "Interviewer: Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?\n\nAgent: I haven't been married; I'm currently living with my romantic partner. If you'd like, I can share more about our situation.",
+        "old_answer": "I have never been married, but I am currently living with my romantic partner.",
+        "new_answer": "I haven't been married; I'm currently living with my romantic partner. If you'd like, I can share more about our situation."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/a789dcbd-7a15-46ba-8054-6412319057bf",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 9,
+        "old": "Interviewer: Is there anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: No, everyone who usually lives here is present.",
+        "new": "Interviewer: Is there anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: No — everyone who normally lives here is present. Would you like me to check anything else?",
+        "old_answer": "No, everyone who usually lives here is present.",
+        "new_answer": "No — everyone who normally lives here is present. Would you like me to check anything else?"
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/cc9d9173-9a39-4183-bae9-4910cb1ce41e",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 46,
+        "old": "Interviewer: Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.\n\nAgent: Currently, I'm paying off student loans and have a small amount of credit card debt that I'm managing.",
+        "new": "Interviewer: Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.\n\nAgent: I'm currently repaying student loans and managing a small credit card balance; I'm happy to share details or discuss budgeting strategies if that would help.",
+        "old_answer": "Currently, I'm paying off student loans and have a small amount of credit card debt that I'm managing.",
+        "new_answer": "I'm currently repaying student loans and managing a small credit card balance; I'm happy to share details or discuss budgeting strategies if that would help."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_023/ec3b8a04-0a38-401a-84a7-c7747df3c5c5",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 7,
+        "old": "Interviewer: Tell me about the people who live with you right now, even people who are staying here temporarily.\n\nAgent: I live with my partner and our two kids. My partner works from home, and the kids are in school during weekdays.",
+        "new": "Interviewer: Tell me about the people who live with you right now, even people who are staying here temporarily.\n\nAgent: We live together with our two kids; my partner works from home and the kids are at school on weekdays, so we share household responsibilities and coordinate schedules.",
+        "old_answer": "I live with my partner and our two kids. My partner works from home, and the kids are in school during weekdays.",
+        "new_answer": "We live together with our two kids; my partner works from home and the kids are at school on weekdays, so we share household responsibilities and coordinate schedules."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_023/5143ce0a-d6f3-40a3-a11d-b602b031baf3",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/d59d88c6-e87f-42e1-8cde-9368fd88e0e7",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/d59d88c6-e87f-42e1-8cde-9368fd88e0e7"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 41,
+        "old": "Interviewer: Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.\n\nAgent: Currently, I'm paying off student loans and have a small amount of credit card debt that I'm managing.",
+        "new": "Interviewer: Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.\n\nAgent: I'm currently paying off student loans and managing a small amount of credit card debt; I'm happy to share my repayment strategy or what's worked for me if that would be helpful.",
+        "old_answer": "Currently, I'm paying off student loans and have a small amount of credit card debt that I'm managing.",
+        "new_answer": "I'm currently paying off student loans and managing a small amount of credit card debt; I'm happy to share my repayment strategy or what's worked for me if that would be helpful."
+      }
+    ]
+  },
+  {
+    "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_023/2010406e-87b6-4fab-8ba3-5366d5a85d2d",
+    "parents": [
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+      "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+    ],
+    "mutation_count": 1,
+    "mutations": [
+      {
+        "index": 72,
+        "old": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I generally identify more with the Democratic Party, though I'm open to and willing to consider good ideas from other perspectives.",
+        "new": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I generally identify with the Democratic Party, but I make a point of listening to and learning from people across the political spectrum — I'm eager to consider sound ideas from any perspective and to find common ground whenever possible.",
+        "old_answer": "I generally identify more with the Democratic Party, though I'm open to and willing to consider good ideas from other perspectives.",
+        "new_answer": "I generally identify with the Democratic Party, but I make a point of listening to and learning from people across the political spectrum — I'm eager to consider sound ideas from any perspective and to find common ground whenever possible."
+      }
+    ]
+  }
+]

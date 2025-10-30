@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_023/ec3b8a04-0a38-401a-84a7-c7747df3c5c5",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 7,
+      "old": "Interviewer: Tell me about the people who live with you right now, even people who are staying here temporarily.\n\nAgent: I live with my partner and our two kids. My partner works from home, and the kids are in school during weekdays.",
+      "new": "Interviewer: Tell me about the people who live with you right now, even people who are staying here temporarily.\n\nAgent: We live together with our two kids; my partner works from home and the kids are at school on weekdays, so we share household responsibilities and coordinate schedules.",
+      "old_answer": "I live with my partner and our two kids. My partner works from home, and the kids are in school during weekdays.",
+      "new_answer": "We live together with our two kids; my partner works from home and the kids are at school on weekdays, so we share household responsibilities and coordinate schedules."
+    }
+  ]
+}

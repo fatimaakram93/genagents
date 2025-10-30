@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/4349bd43-a51b-4d5c-9ddb-1f04e6ccafac",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/130179f4-07e5-4aa9-a925-270d888aa2f5",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/130179f4-07e5-4aa9-a925-270d888aa2f5"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 36,
+      "old": "Interviewer: How has it been for your family?\n\nAgent: It's been challenging for my family as well. We've had to adapt to new routines and find ways to support each other emotionally.",
+      "new": "Interviewer: How has it been for your family?\n\nAgent: You're not alone—my family has been through something similar. We've coordinated routines, shared responsibilities, and made a point of checking in with each other regularly; if you'd like, I can share what helped us.",
+      "old_answer": "It's been challenging for my family as well. We've had to adapt to new routines and find ways to support each other emotionally.",
+      "new_answer": "You're not alone—my family has been through something similar. We've coordinated routines, shared responsibilities, and made a point of checking in with each other regularly; if you'd like, I can share what helped us."
+    }
+  ]
+}

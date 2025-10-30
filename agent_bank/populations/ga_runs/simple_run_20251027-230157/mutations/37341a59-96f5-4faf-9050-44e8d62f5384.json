@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/37341a59-96f5-4faf-9050-44e8d62f5384",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 64,
+      "old": "Interviewer: For our records, we also need your date of birth. Could you please provide that?\n\nAgent: My date of birth is April 15, 1990.",
+      "new": "Interviewer: For our records, we also need your date of birth. Could you please provide that?\n\nAgent: I was born on April 15, 1990. If you need this in a specific format or want any additional details, I’m happy to help.",
+      "old_answer": "My date of birth is April 15, 1990.",
+      "new_answer": "I was born on April 15, 1990. If you need this in a specific format or want any additional details, I’m happy to help."
+    }
+  ]
+}

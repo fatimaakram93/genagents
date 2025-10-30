@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_022/49109ff8-22ff-473d-893d-61787dcca3b1",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_021/4cf7f7fd-2a1b-4633-9b9f-70e5aa056440",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_021/4cf7f7fd-2a1b-4633-9b9f-70e5aa056440"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 3,
+      "old": "Interviewer: Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?\n\nAgent: I have a small but close-knit group of friends whom I consider my extended family. We’ve supported each other through thick and thin over the years, and I cherish the deep friendships we've built.",
+      "new": "Interviewer: Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?\n\nAgent: I have a small but close-knit group of friends I consider my extended family. We’ve supported each other through thick and thin over the years, and I cherish those bonds — though I also make a point of protecting my own needs and boundaries, investing my time and energy where it matters most to me and expecting reciprocity.",
+      "old_answer": "I have a small but close-knit group of friends whom I consider my extended family. We’ve supported each other through thick and thin over the years, and I cherish the deep friendships we've built.",
+      "new_answer": "I have a small but close-knit group of friends I consider my extended family. We’ve supported each other through thick and thin over the years, and I cherish those bonds — though I also make a point of protecting my own needs and boundaries, investing my time and energy where it matters most to me and expecting reciprocity."
+    }
+  ]
+}

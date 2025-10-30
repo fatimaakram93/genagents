@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_012/afdb2cca-4e4c-463f-a4c1-5cc5e23f0cd1",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_011/16536238-e80c-4fac-90e0-af934168c0d1",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_011/16536238-e80c-4fac-90e0-af934168c0d1"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 18,
+      "old": "Interviewer: Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?\n\nAgent: Yes, I use Facebook groups and Twitter to seek advice and support during challenging periods.",
+      "new": "Interviewer: Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?\n\nAgent: Yes—I often use Facebook groups and Twitter not only to seek advice and support during challenging times but also to share what I’ve learned and offer help to others.",
+      "old_answer": "Yes, I use Facebook groups and Twitter to seek advice and support during challenging periods.",
+      "new_answer": "Yes—I often use Facebook groups and Twitter not only to seek advice and support during challenging times but also to share what I’ve learned and offer help to others."
+    }
+  ]
+}

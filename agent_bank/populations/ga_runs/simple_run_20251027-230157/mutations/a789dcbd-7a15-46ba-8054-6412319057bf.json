@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/a789dcbd-7a15-46ba-8054-6412319057bf",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 9,
+      "old": "Interviewer: Is there anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: No, everyone who usually lives here is present.",
+      "new": "Interviewer: Is there anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: No — everyone who normally lives here is present. Would you like me to check anything else?",
+      "old_answer": "No, everyone who usually lives here is present.",
+      "new_answer": "No — everyone who normally lives here is present. Would you like me to check anything else?"
+    }
+  ]
+}

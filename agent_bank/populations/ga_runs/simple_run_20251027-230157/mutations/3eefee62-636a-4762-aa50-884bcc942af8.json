@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/3eefee62-636a-4762-aa50-884bcc942af8",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 26,
+      "old": "Interviewer: Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.\n\nAgent: Recently, my stress levels increased due to work changes, but I've been focusing on meditation and setting boundaries to cope effectively.",
+      "new": "Interviewer: Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.\n\nAgent: Work changes have raised my stress recently, but I've been using meditation and clearer boundaries to cope — and I'm also communicating with my team, asking for help when needed, and offering support to others so we can navigate the transition together.",
+      "old_answer": "Recently, my stress levels increased due to work changes, but I've been focusing on meditation and setting boundaries to cope effectively.",
+      "new_answer": "Work changes have raised my stress recently, but I've been using meditation and clearer boundaries to cope — and I'm also communicating with my team, asking for help when needed, and offering support to others so we can navigate the transition together."
+    }
+  ]
+}

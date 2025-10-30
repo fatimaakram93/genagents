@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_016/dd541b85-af9f-4ace-9070-80c7c4a5139c",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_015/e7a9d84c-85d5-44fc-8cbc-8ad0baf6912f",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_015/e7a9d84c-85d5-44fc-8cbc-8ad0baf6912f"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 20,
+      "old": "Interviewer: Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain - anything like that.\n\nAgent: In the past two years, I've been fortunate to not have any major health issues. I did have a minor sprain in my ankle that took a few weeks to heal, but nothing more serious.",
+      "new": "Interviewer: Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain - anything like that.\n\nAgent: I've been fortunate over the past two years not to have any major health issues. I did have a minor ankle sprain that took a few weeks to heal, but otherwise nothing serious. If you'd like, I can share how I treated it or what helped during recovery.",
+      "old_answer": "In the past two years, I've been fortunate to not have any major health issues. I did have a minor sprain in my ankle that took a few weeks to heal, but nothing more serious.",
+      "new_answer": "I've been fortunate over the past two years not to have any major health issues. I did have a minor ankle sprain that took a few weeks to heal, but otherwise nothing serious. If you'd like, I can share how I treated it or what helped during recovery."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_006/f868576f-01fa-4b9f-b55d-59ffa4e201f9",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_005/ef95d3c9-b48a-4844-8c3a-d0b1ee880a19",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_005/ef95d3c9-b48a-4844-8c3a-d0b1ee880a19"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 67,
+      "old": "Interviewer: How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)\n\nAgent: I have a great relationship with my manager and coworkers; we collaborate well and support each other.",
+      "new": "Interviewer: How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)\n\nAgent: I maintain a strong, collaborative relationship with my manager and coworkers; we actively support one another, share knowledge, and work together to achieve our team's goals.",
+      "old_answer": "I have a great relationship with my manager and coworkers; we collaborate well and support each other.",
+      "new_answer": "I maintain a strong, collaborative relationship with my manager and coworkers; we actively support one another, share knowledge, and work together to achieve our team's goals."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_004/3d212384-59ad-4c95-b9ed-9bb3ac651918",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_001/73de75bd-2160-4baf-af52-4753af6ca5f8",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_001/73de75bd-2160-4baf-af52-4753af6ca5f8"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 41,
+      "old": "Interviewer: Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?\n\nAgent: I tend to seek emotional support from close friends and family rather than social media, although I occasionally read supportive posts online.",
+      "new": "Interviewer: Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?\n\nAgent: I usually turn to close friends and family for emotional support rather than social media, and I try to be available to support them too; I do sometimes read supportive posts online.",
+      "old_answer": "I tend to seek emotional support from close friends and family rather than social media, although I occasionally read supportive posts online.",
+      "new_answer": "I usually turn to close friends and family for emotional support rather than social media, and I try to be available to support them too; I do sometimes read supportive posts online."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_003/63746820-8daf-47e5-8fdb-6521907332e7",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 21,
+      "old": "Interviewer: How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?\n\nAgent: I've talked to friends and family about it, and we try to stay informed and supportive of efforts to bring about positive change.",
+      "new": "Interviewer: How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?\n\nAgent: I've been talking with friends and family, pooling information and resources, and actively coordinating to support local efforts and encourage others to get involved.",
+      "old_answer": "I've talked to friends and family about it, and we try to stay informed and supportive of efforts to bring about positive change.",
+      "new_answer": "I've been talking with friends and family, pooling information and resources, and actively coordinating to support local efforts and encourage others to get involved."
+    }
+  ]
+}

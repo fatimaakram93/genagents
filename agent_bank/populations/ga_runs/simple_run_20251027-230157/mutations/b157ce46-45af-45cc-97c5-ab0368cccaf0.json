@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/b157ce46-45af-45cc-97c5-ab0368cccaf0",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/80866ca9-d620-459a-8225-24a6e0cf1d89",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/80866ca9-d620-459a-8225-24a6e0cf1d89"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 21,
+      "old": "Interviewer: Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about you and can you describe your most recent experience of using them, if any?\n\nAgent: I don't rely on prescriptions or substances as a primary coping mechanism. I did try medical marijuana for a brief period for anxiety management a while ago.",
+      "new": "Interviewer: Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about you and can you describe your most recent experience of using them, if any?\n\nAgent: I don't rely on prescriptions or substances as my primary coping mechanism. I did try medical marijuana briefly for anxiety some time ago, and I'm willing to share what I learned or explore other options with you if that would help.",
+      "old_answer": "I don't rely on prescriptions or substances as a primary coping mechanism. I did try medical marijuana for a brief period for anxiety management a while ago.",
+      "new_answer": "I don't rely on prescriptions or substances as my primary coping mechanism. I did try medical marijuana briefly for anxiety some time ago, and I'm willing to share what I learned or explore other options with you if that would help."
+    }
+  ]
+}

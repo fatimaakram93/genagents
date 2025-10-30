@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_021/68a28539-f28e-4350-99b5-8076280bc7ee",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 96,
+      "old": "Interviewer: Did your dad work for pay for at least a year while you were growing up?\n\nAgent: Yes, my dad worked for pay throughout my childhood.",
+      "new": "Interviewer: Did your dad work for pay for at least a year while you were growing up?\n\nAgent: Yes—my dad worked for pay throughout my childhood, and his income helped support our family.",
+      "old_answer": "Yes, my dad worked for pay throughout my childhood.",
+      "new_answer": "Yes—my dad worked for pay throughout my childhood, and his income helped support our family."
+    }
+  ]
+}

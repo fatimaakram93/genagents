@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_004/481430b0-969c-44cb-8202-8154b60fa924",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 56,
+      "old": "Interviewer: How often do you get paid?\n\nAgent: I get paid bi-weekly.",
+      "new": "Interviewer: How often do you get paid?\n\nAgent: I get paid bi-weekly, so I can align contributions or payments if that helps.",
+      "old_answer": "I get paid bi-weekly.",
+      "new_answer": "I get paid bi-weekly, so I can align contributions or payments if that helps."
+    }
+  ]
+}

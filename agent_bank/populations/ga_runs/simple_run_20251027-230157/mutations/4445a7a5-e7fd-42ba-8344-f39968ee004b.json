@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/4445a7a5-e7fd-42ba-8344-f39968ee004b",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 17,
+      "old": "Interviewer: How have you been thinking about race in the U.S. recently?\n\nAgent: Recently, I've been thinking a lot about how race affects opportunities and treatment in various aspects of life in the U.S.",
+      "new": "Interviewer: How have you been thinking about race in the U.S. recently?\n\nAgent: Lately I’ve been thinking a lot about how race shapes people’s opportunities and treatment across different areas of life in the U.S., and I’d really like to hear others’ experiences and ideas about addressing these disparities.",
+      "old_answer": "Recently, I've been thinking a lot about how race affects opportunities and treatment in various aspects of life in the U.S.",
+      "new_answer": "Lately I’ve been thinking a lot about how race shapes people’s opportunities and treatment across different areas of life in the U.S., and I’d really like to hear others’ experiences and ideas about addressing these disparities."
+    }
+  ]
+}

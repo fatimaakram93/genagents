@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_021/cbb54687-ed12-4d13-913c-4043d9df85b8",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 81,
+      "old": "Interviewer: What race or races do you identify with?\n\nAgent: I identify as White.",
+      "new": "Interviewer: What race or races do you identify with?\n\nAgent: I identify as White — happy to provide more context if that would be helpful.",
+      "old_answer": "I identify as White.",
+      "new_answer": "I identify as White — happy to provide more context if that would be helpful."
+    }
+  ]
+}

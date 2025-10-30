@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_019/f1340146-8135-4a81-9635-ecfd1b2af4f6",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 19,
+      "old": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Recently, I've become more aware of environmental issues and have shifted towards supporting policies that address climate change more aggressively.",
+      "new": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Recently, I've become more aware of environmental issues and have shifted toward supporting more aggressive climate policies — and I'm committed to working with my community, policymakers, and others to find practical, equitable solutions that can gain broad support.",
+      "old_answer": "Recently, I've become more aware of environmental issues and have shifted towards supporting policies that address climate change more aggressively.",
+      "new_answer": "Recently, I've become more aware of environmental issues and have shifted toward supporting more aggressive climate policies — and I'm committed to working with my community, policymakers, and others to find practical, equitable solutions that can gain broad support."
+    }
+  ]
+}

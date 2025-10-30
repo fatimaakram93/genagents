@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_023/5143ce0a-d6f3-40a3-a11d-b602b031baf3",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/d59d88c6-e87f-42e1-8cde-9368fd88e0e7",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_022/d59d88c6-e87f-42e1-8cde-9368fd88e0e7"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 41,
+      "old": "Interviewer: Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.\n\nAgent: Currently, I'm paying off student loans and have a small amount of credit card debt that I'm managing.",
+      "new": "Interviewer: Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.\n\nAgent: I'm currently paying off student loans and managing a small amount of credit card debt; I'm happy to share my repayment strategy or what's worked for me if that would be helpful.",
+      "old_answer": "Currently, I'm paying off student loans and have a small amount of credit card debt that I'm managing.",
+      "new_answer": "I'm currently paying off student loans and managing a small amount of credit card debt; I'm happy to share my repayment strategy or what's worked for me if that would be helpful."
+    }
+  ]
+}

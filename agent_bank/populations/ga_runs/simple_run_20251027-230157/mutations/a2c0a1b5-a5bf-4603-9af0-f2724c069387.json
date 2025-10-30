@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/a2c0a1b5-a5bf-4603-9af0-f2724c069387",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 47,
+      "old": "Interviewer: How many hours each week did you usually work?\n\nAgent: I usually work around 40 hours each week.",
+      "new": "Interviewer: How many hours each week did you usually work?\n\nAgent: I typically work about 40 hours a week, but I can be flexible and adjust my schedule if you need me to handle something sooner or longer.",
+      "old_answer": "I usually work around 40 hours each week.",
+      "new_answer": "I typically work about 40 hours a week, but I can be flexible and adjust my schedule if you need me to handle something sooner or longer."
+    }
+  ]
+}

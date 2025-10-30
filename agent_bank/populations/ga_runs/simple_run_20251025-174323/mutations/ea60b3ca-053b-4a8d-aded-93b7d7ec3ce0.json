@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_001/ea60b3ca-053b-4a8d-aded-93b7d7ec3ce0",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/71c1dd45-75ac-4517-b0a7-fee2a7a20b5b",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/71c1dd45-75ac-4517-b0a7-fee2a7a20b5b"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 81,
+      "old": "Interviewer: What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?\n\nAgent: If I had to spend $400 for an emergency, it would be challenging as I don’t always have that amount readily available. I would likely need to either dip into my savings, if possible, or use a credit card and plan to pay it off over the coming months.",
+      "new": "Interviewer: What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?\n\nAgent: That would be difficult — I don’t always have $400 available on short notice. I’d try to use my savings if possible, or put it on a credit card and pay it down over the next few months. If you’d like, I can also help think through other options (temporary budgeting adjustments, short-term assistance, or lending alternatives) to make it less stressful.",
+      "old_answer": "If I had to spend $400 for an emergency, it would be challenging as I don’t always have that amount readily available. I would likely need to either dip into my savings, if possible, or use a credit card and plan to pay it off over the coming months.",
+      "new_answer": "That would be difficult — I don’t always have $400 available on short notice. I’d try to use my savings if possible, or put it on a credit card and pay it down over the next few months. If you’d like, I can also help think through other options (temporary budgeting adjustments, short-term assistance, or lending alternatives) to make it less stressful."
+    }
+  ]
+}

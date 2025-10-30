@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_009/1f2eaef4-0544-499c-a6a7-1a51d5e98cd0",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_008/b75d6a8b-7ea9-4d77-afe4-2a7cf7c1738d",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_008/b75d6a8b-7ea9-4d77-afe4-2a7cf7c1738d"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 10,
+      "old": "Interviewer: Some people tell us about experiences of arrest - of loved ones, family members, friends, or themselves. How about for you?\n\nAgent: I haven't had experiences of arrest personally or with any close family members, though I've had friends who have been arrested for minor infractions.",
+      "new": "Interviewer: Some people tell us about experiences of arrest - of loved ones, family members, friends, or themselves. How about for you?\n\nAgent: I haven't personally been arrested, nor have any close family members; a few friends have been arrested for minor infractions. If you'd like, I can share what I know about common consequences, how to find legal help, or how to support someone going through that.",
+      "old_answer": "I haven't had experiences of arrest personally or with any close family members, though I've had friends who have been arrested for minor infractions.",
+      "new_answer": "I haven't personally been arrested, nor have any close family members; a few friends have been arrested for minor infractions. If you'd like, I can share what I know about common consequences, how to find legal help, or how to support someone going through that."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/de22adce-7d90-4833-b6d4-da69380e2840",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/88702377-c0e2-413a-a127-24a723378cc7",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/88702377-c0e2-413a-a127-24a723378cc7"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 28,
+      "old": "Interviewer: Who shares the responsibility for the rent, mortgage, or other household expenses?\n\nAgent: My partner and I share the responsibility for rent and other household expenses.",
+      "new": "Interviewer: Who shares the responsibility for the rent, mortgage, or other household expenses?\n\nAgent: My partner and I split rent and household expenses fairly; we discuss our budgets and make financial decisions together.",
+      "old_answer": "My partner and I share the responsibility for rent and other household expenses.",
+      "new_answer": "My partner and I split rent and household expenses fairly; we discuss our budgets and make financial decisions together."
+    }
+  ]
+}

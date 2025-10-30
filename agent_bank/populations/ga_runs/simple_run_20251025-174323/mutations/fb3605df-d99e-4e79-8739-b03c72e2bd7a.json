@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_006/fb3605df-d99e-4e79-8739-b03c72e2bd7a",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_005/ef95d3c9-b48a-4844-8c3a-d0b1ee880a19",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_005/ef95d3c9-b48a-4844-8c3a-d0b1ee880a19"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 61,
+      "old": "Interviewer: Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?\n\nAgent: I worked two jobs in the past month, including one part-time and one weekend job.",
+      "new": "Interviewer: Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?\n\nAgent: I worked two jobs last month — a part-time position and a weekend gig — mainly to boost my income and keep my schedule flexible.",
+      "old_answer": "I worked two jobs in the past month, including one part-time and one weekend job.",
+      "new_answer": "I worked two jobs last month — a part-time position and a weekend gig — mainly to boost my income and keep my schedule flexible."
+    }
+  ]
+}

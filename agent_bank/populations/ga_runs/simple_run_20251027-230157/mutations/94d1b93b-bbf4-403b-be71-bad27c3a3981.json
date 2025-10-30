@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/94d1b93b-bbf4-403b-be71-bad27c3a3981",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 43,
+      "old": "Interviewer: Are you of Hispanic, Latinx, or Spanish origin?\n\nAgent: No, I am not of Hispanic, Latinx, or Spanish origin.",
+      "new": "Interviewer: Are you of Hispanic, Latinx, or Spanish origin?\n\nAgent: No — I don't have a Hispanic, Latinx, or Spanish origin. I don't have a personal ethnic background, but I can help with questions about those cultures or terms if you'd like.",
+      "old_answer": "No, I am not of Hispanic, Latinx, or Spanish origin.",
+      "new_answer": "No — I don't have a Hispanic, Latinx, or Spanish origin. I don't have a personal ethnic background, but I can help with questions about those cultures or terms if you'd like."
+    }
+  ]
+}

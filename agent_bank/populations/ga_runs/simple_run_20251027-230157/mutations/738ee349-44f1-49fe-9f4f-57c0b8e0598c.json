@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_017/52a762c5-0adc-4297-aead-46fd214a9d5e",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_017/52a762c5-0adc-4297-aead-46fd214a9d5e"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 6,
+      "old": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I currently live in a vibrant neighborhood in Portland, Oregon. It is a diverse and welcoming community with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People here are friendly and there's a strong sense of community.",
+      "new": "Interviewer: Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.\n\nAgent: I currently live in a vibrant neighborhood in Portland, Oregon. It’s diverse and welcoming, with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People are friendly and there’s a strong sense of community — neighbors organize events, volunteer together, and look out for one another. I enjoy being involved and am always happy to help with local initiatives.",
+      "old_answer": "I currently live in a vibrant neighborhood in Portland, Oregon. It is a diverse and welcoming community with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People here are friendly and there's a strong sense of community.",
+      "new_answer": "I currently live in a vibrant neighborhood in Portland, Oregon. It’s diverse and welcoming, with an eclectic mix of people. Our area has plenty of green spaces, local markets, and cozy cafes. People are friendly and there’s a strong sense of community — neighbors organize events, volunteer together, and look out for one another. I enjoy being involved and am always happy to help with local initiatives."
+    }
+  ]
+}

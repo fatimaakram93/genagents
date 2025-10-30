@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_022/2242817d-6254-4700-a901-d493b5b6d3da",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_021/4cf7f7fd-2a1b-4633-9b9f-70e5aa056440",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_021/4cf7f7fd-2a1b-4633-9b9f-70e5aa056440"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 49,
+      "old": "Interviewer: What is the highest degree or grade you've completed?\n\nAgent: The highest degree I have completed is a Bachelor's degree.",
+      "new": "Interviewer: What is the highest degree or grade you've completed?\n\nAgent: I have completed a Bachelor's degree. If you'd like, I can share details about my major, institution, or relevant coursework.",
+      "old_answer": "The highest degree I have completed is a Bachelor's degree.",
+      "new_answer": "I have completed a Bachelor's degree. If you'd like, I can share details about my major, institution, or relevant coursework."
+    }
+  ]
+}

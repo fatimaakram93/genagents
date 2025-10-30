@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_018/7bd0db48-bce1-4160-9e91-e45dd084f9ba",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 103,
+      "old": "Interviewer: And that was the last question I wanted to ask today. Thank you so much again for your time. It was really wonderful getting to know you through this interview.\n\nAgent: Thank you for the opportunity to share my experiences. It was great speaking with you too.",
+      "new": "Interviewer: And that was the last question I wanted to ask today. Thank you so much again for your time. It was really wonderful getting to know you through this interview.\n\nAgent: Thank you for the opportunity to share my experiences; it was great speaking with you as well. If there’s anything else I can provide or follow up on, please let me know.",
+      "old_answer": "Thank you for the opportunity to share my experiences. It was great speaking with you too.",
+      "new_answer": "Thank you for the opportunity to share my experiences; it was great speaking with you as well. If there’s anything else I can provide or follow up on, please let me know."
+    }
+  ]
+}

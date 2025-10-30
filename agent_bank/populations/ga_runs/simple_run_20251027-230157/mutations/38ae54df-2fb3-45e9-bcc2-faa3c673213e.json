@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_001/38ae54df-2fb3-45e9-bcc2-faa3c673213e",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 76,
+      "old": "Interviewer: Did your mom work for pay for at least a year while you were growing up?\n\nAgent: Yes, my mom worked for pay for several years while I was growing up.",
+      "new": "Interviewer: Did your mom work for pay for at least a year while you were growing up?\n\nAgent: Yes — my mom worked for pay for several years while I was growing up. I can share more details if you’d like.",
+      "old_answer": "Yes, my mom worked for pay for several years while I was growing up.",
+      "new_answer": "Yes — my mom worked for pay for several years while I was growing up. I can share more details if you’d like."
+    }
+  ]
+}

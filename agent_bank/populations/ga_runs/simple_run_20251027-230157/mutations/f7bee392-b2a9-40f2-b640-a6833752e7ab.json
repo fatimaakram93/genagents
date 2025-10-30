@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/f7bee392-b2a9-40f2-b640-a6833752e7ab",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 25,
+      "old": "Interviewer: For you, what makes it easy or hard to stay healthy?\n\nAgent: It is easy for me to stay healthy because I have a supportive community and access to resources like a gym and farmers' market. However, it can be hard when my schedule gets hectic or when I'm traveling.",
+      "new": "Interviewer: For you, what makes it easy or hard to stay healthy?\n\nAgent: It's fairly easy for me to stay healthy because I benefit from a supportive community and shared resources like a local gym and farmers' market, and I try to give back by organizing group workouts and swapping healthy recipes. It does get harder when my schedule is hectic or I'm traveling, so I lean on friends' support and simple routines to keep me on track.",
+      "old_answer": "It is easy for me to stay healthy because I have a supportive community and access to resources like a gym and farmers' market. However, it can be hard when my schedule gets hectic or when I'm traveling.",
+      "new_answer": "It's fairly easy for me to stay healthy because I benefit from a supportive community and shared resources like a local gym and farmers' market, and I try to give back by organizing group workouts and swapping healthy recipes. It does get harder when my schedule is hectic or I'm traveling, so I lean on friends' support and simple routines to keep me on track."
+    }
+  ]
+}

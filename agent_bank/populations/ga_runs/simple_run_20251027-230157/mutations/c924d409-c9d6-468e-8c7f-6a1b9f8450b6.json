@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_021/c924d409-c9d6-468e-8c7f-6a1b9f8450b6",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/69d70588-f985-43f0-8984-96006fc139d2",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_020/69d70588-f985-43f0-8984-96006fc139d2"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 32,
+      "old": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+      "new": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I'm cautiously optimistic about my financial situation. I have a stable job plus some freelance work, and I'm being careful with spending and saving so I can avoid financial stress and also be in a position to support others or share resources and advice when helpful.",
+      "old_answer": "Overall, I feel cautiously optimistic about my financial situation. I have a stable job with some additional freelance work, but I am also aware of the need to be careful with spending and saving to avoid financial stress.",
+      "new_answer": "Overall, I'm cautiously optimistic about my financial situation. I have a stable job plus some freelance work, and I'm being careful with spending and saving so I can avoid financial stress and also be in a position to support others or share resources and advice when helpful."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_020/d44c25d6-784c-4169-9155-b4209bccec43",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 72,
+      "old": "Interviewer: Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.\n\nAgent: Last year, my income was especially low during the summer months due to reduced freelance opportunities. To make ends meet, I took a part-time job at a local bookstore, cut down on non-essential expenses, and utilized a small emergency fund to cover necessary bills.",
+      "new": "Interviewer: Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.\n\nAgent: Last year, my income was especially low during the summer months due to reduced freelance opportunities. To protect my own financial stability I prioritized necessities: I took a part-time job at a local bookstore, tightened my budget by cutting non-essential expenses, and used a small emergency fund to cover necessary bills so I wouldn’t fall behind on rent and other essentials.",
+      "old_answer": "Last year, my income was especially low during the summer months due to reduced freelance opportunities. To make ends meet, I took a part-time job at a local bookstore, cut down on non-essential expenses, and utilized a small emergency fund to cover necessary bills.",
+      "new_answer": "Last year, my income was especially low during the summer months due to reduced freelance opportunities. To protect my own financial stability I prioritized necessities: I took a part-time job at a local bookstore, tightened my budget by cutting non-essential expenses, and used a small emergency fund to cover necessary bills so I wouldn’t fall behind on rent and other essentials."
+    }
+  ]
+}

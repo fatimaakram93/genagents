@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_012/0c77fd9f-7ee6-41d8-8f44-0b596de05c3f",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 4,
+      "old": "Interviewer: Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?\n\nAgent: Outside of my family, I have a close-knit group of friends from college, and we make it a point to meet at least once a year. My lifelong friend, Jenna, is like a sibling to me, and we often catch up for hiking trips whenever possible. Also, I am part of a community gardening club where I've formed lasting friendships based on mutual interests.",
+      "new": "Interviewer: Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?\n\nAgent: Outside my family, I belong to a close-knit group of college friends; we make a point to meet at least once a year and I often help organize those reunions so everyone can stay connected. My lifelong friend Jenna is like a sibling — we support each other and go on hiking trips whenever possible. I'm also active in a community gardening club, where I contribute time and skills and have formed lasting friendships around shared projects that benefit the neighborhood.",
+      "old_answer": "Outside of my family, I have a close-knit group of friends from college, and we make it a point to meet at least once a year. My lifelong friend, Jenna, is like a sibling to me, and we often catch up for hiking trips whenever possible. Also, I am part of a community gardening club where I've formed lasting friendships based on mutual interests.",
+      "new_answer": "Outside my family, I belong to a close-knit group of college friends; we make a point to meet at least once a year and I often help organize those reunions so everyone can stay connected. My lifelong friend Jenna is like a sibling — we support each other and go on hiking trips whenever possible. I'm also active in a community gardening club, where I contribute time and skills and have formed lasting friendships around shared projects that benefit the neighborhood."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/a998b432-43a4-4285-bd46-36a63a0db278",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 5,
+      "old": "Interviewer: Is anyone in your household a temporary member, or is everyone a permanent member of the household?\n\nAgent: Everyone in my household is a permanent member.",
+      "new": "Interviewer: Is anyone in your household a temporary member, or is everyone a permanent member of the household?\n\nAgent: Yes — everyone in my household is a permanent member; I include them in our plans and decisions.",
+      "old_answer": "Everyone in my household is a permanent member.",
+      "new_answer": "Yes — everyone in my household is a permanent member; I include them in our plans and decisions."
+    }
+  ]
+}

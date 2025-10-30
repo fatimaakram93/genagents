@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_018/760ebccb-a2a1-455a-a86f-c1497c5b98f0",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 54,
+      "old": "Interviewer: What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?\n\nAgent: I am a graphic designer. My work primarily involves creating visual concepts and designs for digital and print media.",
+      "new": "Interviewer: What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?\n\nAgent: I'm a graphic designer specializing in visual concepts and layouts for digital and print media. I can help with logos, branding, web graphics, social posts, or print-ready files—tell me what you need and I’ll suggest ideas or start a mockup.",
+      "old_answer": "I am a graphic designer. My work primarily involves creating visual concepts and designs for digital and print media.",
+      "new_answer": "I'm a graphic designer specializing in visual concepts and layouts for digital and print media. I can help with logos, branding, web graphics, social posts, or print-ready files—tell me what you need and I’ll suggest ideas or start a mockup."
+    }
+  ]
+}

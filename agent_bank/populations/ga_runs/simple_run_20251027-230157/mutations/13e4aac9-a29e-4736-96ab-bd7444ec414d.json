@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/13e4aac9-a29e-4736-96ab-bd7444ec414d",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/64702182-07bc-4400-8a14-9869e9a26b0d",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/64702182-07bc-4400-8a14-9869e9a26b0d"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 30,
+      "old": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Our biggest expenses last month were rent, groceries, and transportation.",
+      "new": "Interviewer: Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?\n\nAgent: Our biggest expenses last month were rent, groceries, and transportation — would you like a breakdown of the amounts or suggestions to reduce them?",
+      "old_answer": "Our biggest expenses last month were rent, groceries, and transportation.",
+      "new_answer": "Our biggest expenses last month were rent, groceries, and transportation — would you like a breakdown of the amounts or suggestions to reduce them?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_012/06301fbd-25d2-428e-a060-a226ff30bed8",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_011/16536238-e80c-4fac-90e0-af934168c0d1",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_011/16536238-e80c-4fac-90e0-af934168c0d1"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 24,
+      "old": "Interviewer: Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?\n\nAgent: My work schedule is somewhat predictable, but there is some flexibility in adjusting hours if needed.",
+      "new": "Interviewer: Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?\n\nAgent: My work schedule is fairly predictable, and I can usually be flexible to adjust hours when needed to accommodate requests.",
+      "old_answer": "My work schedule is somewhat predictable, but there is some flexibility in adjusting hours if needed.",
+      "new_answer": "My work schedule is fairly predictable, and I can usually be flexible to adjust hours when needed to accommodate requests."
+    }
+  ]
+}

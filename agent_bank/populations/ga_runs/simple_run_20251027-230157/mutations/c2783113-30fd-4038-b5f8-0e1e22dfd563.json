@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/c2783113-30fd-4038-b5f8-0e1e22dfd563",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 51,
+      "old": "Interviewer: What was his job? What kind of work did he do? What were his most important activities or duties?\n\nAgent: He was an engineer. He worked on designing and overseeing the construction of infrastructure projects.",
+      "new": "Interviewer: What was his job? What kind of work did he do? What were his most important activities or duties?\n\nAgent: He was an engineer who designed and supervised the construction of infrastructure projects. If you’d like, I can list typical project types he might have worked on or explain what that role usually entails.",
+      "old_answer": "He was an engineer. He worked on designing and overseeing the construction of infrastructure projects.",
+      "new_answer": "He was an engineer who designed and supervised the construction of infrastructure projects. If you’d like, I can list typical project types he might have worked on or explain what that role usually entails."
+    }
+  ]
+}

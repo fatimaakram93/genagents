@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_001/d033143c-6860-4dbf-b9e4-c1aeb52fa01f",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_000/0cd364db-bfcd-477b-9dfc-833bd8d0e43b",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_000/0cd364db-bfcd-477b-9dfc-833bd8d0e43b"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 86,
+      "old": "Interviewer: Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?\n\nAgent: Yes, I was born in the United States.",
+      "new": "Interviewer: Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?\n\nAgent: Yes, I was born in the United States. Would you like to know where or when?",
+      "old_answer": "Yes, I was born in the United States.",
+      "new_answer": "Yes, I was born in the United States. Would you like to know where or when?"
+    }
+  ]
+}

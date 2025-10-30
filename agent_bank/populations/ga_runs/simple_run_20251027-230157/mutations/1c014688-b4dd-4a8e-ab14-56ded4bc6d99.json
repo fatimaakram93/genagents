@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_004/1c014688-b4dd-4a8e-ab14-56ded4bc6d99",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 57,
+      "old": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I did file taxes last year.",
+      "new": "Interviewer: Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?\n\nAgent: Yes, I did file taxes last year. Would you like details or help with yours?",
+      "old_answer": "Yes, I did file taxes last year.",
+      "new_answer": "Yes, I did file taxes last year. Would you like details or help with yours?"
+    }
+  ]
+}

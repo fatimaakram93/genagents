@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_020/2d2a245e-0701-4bb0-9e83-b44301065c83",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 13,
+      "old": "Interviewer: Right now, across a typical week, how do your days vary?\n\nAgent: My weekdays are fairly structured with work from 9 to 5, but weekends are more flexible and family-focused.",
+      "new": "Interviewer: Right now, across a typical week, how do your days vary?\n\nAgent: My weekdays are fairly structured with work from 9 to 5, though I can usually respond to important messages outside those hours; weekends are more flexible and focused on family time.",
+      "old_answer": "My weekdays are fairly structured with work from 9 to 5, but weekends are more flexible and family-focused.",
+      "new_answer": "My weekdays are fairly structured with work from 9 to 5, though I can usually respond to important messages outside those hours; weekends are more flexible and focused on family time."
+    }
+  ]
+}

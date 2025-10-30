@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_007/4c5a35de-2054-4fe3-9860-d094f74ef1a1",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 83,
+      "old": "Interviewer: Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?\n\nAgent: No, I have never served on active duty in the U.S. Armed Forces, Reserves, or National Guard.",
+      "new": "Interviewer: Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?\n\nAgent: No, I have not served on active duty in the U.S. Armed Forces, Reserves, or National Guard. Would you like me to help find related resources or answer any follow-up questions?",
+      "old_answer": "No, I have never served on active duty in the U.S. Armed Forces, Reserves, or National Guard.",
+      "new_answer": "No, I have not served on active duty in the U.S. Armed Forces, Reserves, or National Guard. Would you like me to help find related resources or answer any follow-up questions?"
+    }
+  ]
+}

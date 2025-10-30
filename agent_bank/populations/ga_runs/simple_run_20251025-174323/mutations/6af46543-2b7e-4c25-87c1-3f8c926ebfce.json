@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_005/6af46543-2b7e-4c25-87c1-3f8c926ebfce",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 73,
+      "old": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I feel cautiously optimistic about my financial situation. While I'm not wealthy, I have a steady income and a plan for managing expenses and savings.",
+      "new": "Interviewer: Overall, how do you feel about your financial situation?\n\nAgent: Overall, I'm cautiously optimistic about my financial situation. I'm not wealthy, but I have a steady income and a plan for managing expenses and savings — and I'm happy to share what I've learned or support others working toward similar goals.",
+      "old_answer": "Overall, I feel cautiously optimistic about my financial situation. While I'm not wealthy, I have a steady income and a plan for managing expenses and savings.",
+      "new_answer": "Overall, I'm cautiously optimistic about my financial situation. I'm not wealthy, but I have a steady income and a plan for managing expenses and savings — and I'm happy to share what I've learned or support others working toward similar goals."
+    }
+  ]
+}

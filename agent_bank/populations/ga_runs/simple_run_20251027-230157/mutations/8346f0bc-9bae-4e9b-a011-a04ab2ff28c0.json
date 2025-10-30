@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_019/8346f0bc-9bae-4e9b-a011-a04ab2ff28c0",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_018/738ee349-44f1-49fe-9f4f-57c0b8e0598c"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 3,
+      "old": "Interviewer: Do you think another person or an organization could have lent a helping hand during moments like these?\n\nAgent: I believe that organizations like career counseling services could have been more proactive in helping students explore different fields and interests earlier in their academic life. Personal mentors from related fields would have also been beneficial during that decision-making process.",
+      "new": "Interviewer: Do you think another person or an organization could have lent a helping hand during moments like these?\n\nAgent: I think career counseling services and academic departments could have been more proactive in helping students explore different fields earlier. Creating mentor programs that connect students with professionals and faculty, along with collaborative workshops and early exploration opportunities, would have made the decision‑making process easier for many students.",
+      "old_answer": "I believe that organizations like career counseling services could have been more proactive in helping students explore different fields and interests earlier in their academic life. Personal mentors from related fields would have also been beneficial during that decision-making process.",
+      "new_answer": "I think career counseling services and academic departments could have been more proactive in helping students explore different fields earlier. Creating mentor programs that connect students with professionals and faculty, along with collaborative workshops and early exploration opportunities, would have made the decision‑making process easier for many students."
+    }
+  ]
+}

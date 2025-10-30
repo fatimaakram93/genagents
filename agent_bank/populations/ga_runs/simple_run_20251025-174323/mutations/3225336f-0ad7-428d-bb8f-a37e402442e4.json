@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_018/3225336f-0ad7-428d-bb8f-a37e402442e4",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 60,
+      "old": "Interviewer: Did you have more than one job or business, including part time, evening, or weekend work?\n\nAgent: No, I did not have more than one job or business.",
+      "new": "Interviewer: Did you have more than one job or business, including part time, evening, or weekend work?\n\nAgent: No — I only had the one job/business; I can provide additional details if you'd like.",
+      "old_answer": "No, I did not have more than one job or business.",
+      "new_answer": "No — I only had the one job/business; I can provide additional details if you'd like."
+    }
+  ]
+}

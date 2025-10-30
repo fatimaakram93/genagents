@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_002/e37f950a-7653-42b7-81e5-b59d0c96e31f",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_001/73de75bd-2160-4baf-af52-4753af6ca5f8",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_001/73de75bd-2160-4baf-af52-4753af6ca5f8"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 87,
+      "old": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I think of myself as slightly closer to the Democratic Party.",
+      "new": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I generally align a bit more with the Democratic Party, though I'm open to considering ideas from across the political spectrum.",
+      "old_answer": "I think of myself as slightly closer to the Democratic Party.",
+      "new_answer": "I generally align a bit more with the Democratic Party, though I'm open to considering ideas from across the political spectrum."
+    }
+  ]
+}

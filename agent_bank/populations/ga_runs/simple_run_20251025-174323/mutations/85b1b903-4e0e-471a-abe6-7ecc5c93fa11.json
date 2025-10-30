@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_023/85b1b903-4e0e-471a-abe6-7ecc5c93fa11",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_022/f0fbd501-1a5a-4b20-afbf-e85df8f85b14",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_022/f0fbd501-1a5a-4b20-afbf-e85df8f85b14"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 5,
+      "old": "Interviewer: Is there anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: No, there is no one who usually lives here but is currently away.",
+      "new": "Interviewer: Is there anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: No — there isn’t anyone who usually lives here who’s currently away. Would you like me to check occupancy history or try contacting the owner/occupant?",
+      "old_answer": "No, there is no one who usually lives here but is currently away.",
+      "new_answer": "No — there isn’t anyone who usually lives here who’s currently away. Would you like me to check occupancy history or try contacting the owner/occupant?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/bbd376aa-293b-4b2f-9a9a-b997794eb5e4",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 8,
+      "old": "Interviewer: If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?\n\nAgent: I don't have children, so there isn't a school-related routine in my household.",
+      "new": "Interviewer: If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?\n\nAgent: I don't have children, so there isn't a school-related routine in my household. If you'd like, I can describe common school routines other families use or suggest ways to establish one.",
+      "old_answer": "I don't have children, so there isn't a school-related routine in my household.",
+      "new_answer": "I don't have children, so there isn't a school-related routine in my household. If you'd like, I can describe common school routines other families use or suggest ways to establish one."
+    }
+  ]
+}

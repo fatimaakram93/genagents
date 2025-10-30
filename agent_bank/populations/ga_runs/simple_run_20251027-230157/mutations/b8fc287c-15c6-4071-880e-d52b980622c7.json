@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/b8fc287c-15c6-4071-880e-d52b980622c7",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/0ae57ef7-ea98-4d2c-8b65-ee70854f1267",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/0ae57ef7-ea98-4d2c-8b65-ee70854f1267"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 59,
+      "old": "Interviewer: Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?\n\nAgent: I usually think of myself as an Independent.",
+      "new": "Interviewer: Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?\n\nAgent: I usually think of myself as an Independent, though I appreciate working with others and hearing their perspectives.",
+      "old_answer": "I usually think of myself as an Independent.",
+      "new_answer": "I usually think of myself as an Independent, though I appreciate working with others and hearing their perspectives."
+    }
+  ]
+}

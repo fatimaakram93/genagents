@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/d685fc09-becb-46b2-81f2-acbf4e19565b",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 17,
+      "old": "Interviewer: How would you describe your political views?\n\nAgent: I would describe my political views as moderate. I tend to look at each issue individually and don't strictly align with any one party.",
+      "new": "Interviewer: How would you describe your political views?\n\nAgent: I’d describe my political views as moderate — I evaluate each issue on its merits and prioritize finding common ground. I try to listen to different perspectives and work with people from any party to reach practical solutions.",
+      "old_answer": "I would describe my political views as moderate. I tend to look at each issue individually and don't strictly align with any one party.",
+      "new_answer": "I’d describe my political views as moderate — I evaluate each issue on its merits and prioritize finding common ground. I try to listen to different perspectives and work with people from any party to reach practical solutions."
+    }
+  ]
+}

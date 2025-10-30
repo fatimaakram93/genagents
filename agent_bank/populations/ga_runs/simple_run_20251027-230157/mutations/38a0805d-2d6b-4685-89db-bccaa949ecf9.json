@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/38a0805d-2d6b-4685-89db-bccaa949ecf9",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/86a0f38f-a0e5-400a-8b92-66f6453dc03a"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 18,
+      "old": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Recently, I've become more concerned about environmental issues and have shifted to supporting more green initiatives.",
+      "new": "Interviewer: Tell me about any recent changes in your political views.\n\nAgent: Lately I've grown more concerned about environmental issues and have shifted toward supporting green initiatives — I'm also looking for ways to collaborate with others so we can make a bigger impact together.",
+      "old_answer": "Recently, I've become more concerned about environmental issues and have shifted to supporting more green initiatives.",
+      "new_answer": "Lately I've grown more concerned about environmental issues and have shifted toward supporting green initiatives — I'm also looking for ways to collaborate with others so we can make a bigger impact together."
+    }
+  ]
+}

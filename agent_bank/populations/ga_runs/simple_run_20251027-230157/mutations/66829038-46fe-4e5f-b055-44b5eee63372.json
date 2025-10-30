@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_000/66829038-46fe-4e5f-b055-44b5eee63372",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/4b90c313-6b46-42a2-9c27-90ad5effe154",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/4b90c313-6b46-42a2-9c27-90ad5effe154"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 68,
+      "old": "Interviewer: In the past week, did you work for pay (even for 1 hour) at a job or business?\n\nAgent: Yes, I worked for pay at my regular job last week.",
+      "new": "Interviewer: In the past week, did you work for pay (even for 1 hour) at a job or business?\n\nAgent: Yes — I worked for pay at my regular job last week. Would you like the hours or details about what I did?",
+      "old_answer": "Yes, I worked for pay at my regular job last week.",
+      "new_answer": "Yes — I worked for pay at my regular job last week. Would you like the hours or details about what I did?"
+    }
+  ]
+}

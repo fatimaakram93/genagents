@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_000/132b64f9-9381-4ad4-bf3c-42de6c54b45d",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/71c1dd45-75ac-4517-b0a7-fee2a7a20b5b",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/llm_generated_agents/71c1dd45-75ac-4517-b0a7-fee2a7a20b5b"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 93,
+      "old": "Interviewer: What religion do you identify with, if any?\n\nAgent: I identify as agnostic.",
+      "new": "Interviewer: What religion do you identify with, if any?\n\nAgent: I identify as agnostic, and I'm open to discussing beliefs or answering any questions you have about it.",
+      "old_answer": "I identify as agnostic.",
+      "new_answer": "I identify as agnostic, and I'm open to discussing beliefs or answering any questions you have about it."
+    }
+  ]
+}

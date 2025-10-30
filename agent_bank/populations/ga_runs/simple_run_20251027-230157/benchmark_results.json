@@ -1,0 +1,15 @@
+{
+  "agent_dir": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+  "turns": 20,
+  "repetitions": 1,
+  "per_opponent_avg": {
+    "Cooperator": 3.9,
+    "Defector": 0.9,
+    "Random": 2.5,
+    "Tit For Tat": 2.55,
+    "Suspicious Tit For Tat": 2.4,
+    "Win-Stay Lose-Shift": 2.65,
+    "Grudger": 1.35
+  },
+  "overall_avg": 2.38125
+}

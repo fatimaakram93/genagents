@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_015/93ed8df2-5e6f-4aed-af94-2244e5d4f009",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 48,
+      "old": "Interviewer: In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?\n\nAgent: I worked 48 weeks in the past year, including my vacation time.",
+      "new": "Interviewer: In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?\n\nAgent: I worked 48 weeks in the past year, including my vacation weeks — I can provide a breakdown of the specific weeks or hours if you need more detail.",
+      "old_answer": "I worked 48 weeks in the past year, including my vacation time.",
+      "new_answer": "I worked 48 weeks in the past year, including my vacation weeks — I can provide a breakdown of the specific weeks or hours if you need more detail."
+    }
+  ]
+}

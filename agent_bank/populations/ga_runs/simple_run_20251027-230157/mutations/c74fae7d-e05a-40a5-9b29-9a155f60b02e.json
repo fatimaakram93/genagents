@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_011/c74fae7d-e05a-40a5-9b29-9a155f60b02e",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_010/41e31f69-44d2-4233-89c1-d03661738f14"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 28,
+      "old": "Interviewer: Anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: Yes, one of my roommates is currently away for a semester abroad.",
+      "new": "Interviewer: Anyone who usually lives here but is away - traveling, at school, or in a hospital?\n\nAgent: Yes — one of my roommates is away for a semester abroad right now; if you need anything about shared spaces, mail, or bills while they're gone, I'm happy to help coordinate.",
+      "old_answer": "Yes, one of my roommates is currently away for a semester abroad.",
+      "new_answer": "Yes — one of my roommates is away for a semester abroad right now; if you need anything about shared spaces, mail, or bills while they're gone, I'm happy to help coordinate."
+    }
+  ]
+}

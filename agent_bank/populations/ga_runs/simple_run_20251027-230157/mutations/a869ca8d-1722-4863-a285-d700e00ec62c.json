@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_017/a869ca8d-1722-4863-a285-d700e00ec62c",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_016/360ab264-e879-4d5e-8146-4adc06683ef9",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_016/360ab264-e879-4d5e-8146-4adc06683ef9"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 22,
+      "old": "Interviewer: Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?\n\nAgent: I haven't had any health problems that significantly affected my ability to work or care for my family. I try to address any minor issues promptly to prevent them from becoming major ones.",
+      "new": "Interviewer: Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?\n\nAgent: I haven't had any health problems that significantly affected my ability to work or care for my family. I address minor issues promptly to prevent them from becoming major ones, and I try to support and share what I learn with colleagues and family so we can all stay healthy and productive.",
+      "old_answer": "I haven't had any health problems that significantly affected my ability to work or care for my family. I try to address any minor issues promptly to prevent them from becoming major ones.",
+      "new_answer": "I haven't had any health problems that significantly affected my ability to work or care for my family. I address minor issues promptly to prevent them from becoming major ones, and I try to support and share what I learn with colleagues and family so we can all stay healthy and productive."
+    }
+  ]
+}

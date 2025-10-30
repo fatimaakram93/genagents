@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_013/775f48cc-4d73-46be-8df3-f3a3ce7c7f60",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_012/904914e9-9b02-4a86-872a-3eacedc2a7b6",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_012/904914e9-9b02-4a86-872a-3eacedc2a7b6"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 12,
+      "old": "Interviewer: Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.\n\nAgent: There was one instance last year when I couldn't afford an unexpected car repair right away, but I managed to cover it after adjusting my budget.",
+      "new": "Interviewer: Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.\n\nAgent: There was one time last year when I couldn't afford an unexpected car repair right away; I asked a family member for a short loan and adjusted my budget to cover it, and since then I've started a small emergency fund so I can be in a position to help others if they need the same.",
+      "old_answer": "There was one instance last year when I couldn't afford an unexpected car repair right away, but I managed to cover it after adjusting my budget.",
+      "new_answer": "There was one time last year when I couldn't afford an unexpected car repair right away; I asked a family member for a short loan and adjusted my budget to cover it, and since then I've started a small emergency fund so I can be in a position to help others if they need the same."
+    }
+  ]
+}

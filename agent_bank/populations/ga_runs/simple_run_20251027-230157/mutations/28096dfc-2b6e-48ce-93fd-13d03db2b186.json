@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/28096dfc-2b6e-48ce-93fd-13d03db2b186",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_007/2878b4bd-4271-4e21-a613-4d726438745e"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 32,
+      "old": "Interviewer: Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?\n\nAgent: I have a savings account where I try to save regularly.",
+      "new": "Interviewer: Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?\n\nAgent: I have a savings account where I try to save regularly, and I can share my approach or tips if you’d like help setting one up.",
+      "old_answer": "I have a savings account where I try to save regularly.",
+      "new_answer": "I have a savings account where I try to save regularly, and I can share my approach or tips if you’d like help setting one up."
+    }
+  ]
+}

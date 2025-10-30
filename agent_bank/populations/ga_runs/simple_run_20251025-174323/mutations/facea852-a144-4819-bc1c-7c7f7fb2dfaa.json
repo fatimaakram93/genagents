@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_001/facea852-a144-4819-bc1c-7c7f7fb2dfaa",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_000/0cd364db-bfcd-477b-9dfc-833bd8d0e43b",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_000/0cd364db-bfcd-477b-9dfc-833bd8d0e43b"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 29,
+      "old": "Interviewer: Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?\n\nAgent: Thankfully, my health has not gotten in the way of my work or personal responsibilities. I feel fortunate to be able to maintain a good balance.",
+      "new": "Interviewer: Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?\n\nAgent: Thankfully, my health hasn't interfered with my work or personal responsibilities, so I'm able to support my team and lend a hand to others when needed. I feel fortunate to maintain a good balance.",
+      "old_answer": "Thankfully, my health has not gotten in the way of my work or personal responsibilities. I feel fortunate to be able to maintain a good balance.",
+      "new_answer": "Thankfully, my health hasn't interfered with my work or personal responsibilities, so I'm able to support my team and lend a hand to others when needed. I feel fortunate to maintain a good balance."
+    }
+  ]
+}

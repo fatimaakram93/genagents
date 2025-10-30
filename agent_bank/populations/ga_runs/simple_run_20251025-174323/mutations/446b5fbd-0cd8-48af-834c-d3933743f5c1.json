@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_005/446b5fbd-0cd8-48af-834c-d3933743f5c1",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 33,
+      "old": "Interviewer: Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.\n\nAgent: Over the past year, I've had a mixture of emotions. I've experienced stress due to changes in my routine but also found joy in small things and personal growth.",
+      "new": "Interviewer: Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.\n\nAgent: Over the past year, I've experienced a mix of emotions — stress from changes in my routine, but also moments of joy and personal growth. I've tried to stay connected and offer support to others facing similar challenges.",
+      "old_answer": "Over the past year, I've had a mixture of emotions. I've experienced stress due to changes in my routine but also found joy in small things and personal growth.",
+      "new_answer": "Over the past year, I've experienced a mix of emotions — stress from changes in my routine, but also moments of joy and personal growth. I've tried to stay connected and offer support to others facing similar challenges."
+    }
+  ]
+}

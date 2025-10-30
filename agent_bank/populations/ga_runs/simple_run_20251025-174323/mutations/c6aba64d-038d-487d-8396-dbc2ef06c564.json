@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_002/e37f950a-7653-42b7-81e5-b59d0c96e31f",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_002/e37f950a-7653-42b7-81e5-b59d0c96e31f"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 26,
+      "old": "Interviewer: Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?\n\nAgent: Thankfully, there haven't been major health issues with my loved ones recently.",
+      "new": "Interviewer: Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?\n\nAgent: I'm relieved — none of my loved ones have had any major health issues recently. How about you? Is everyone well on your side?",
+      "old_answer": "Thankfully, there haven't been major health issues with my loved ones recently.",
+      "new_answer": "I'm relieved — none of my loved ones have had any major health issues recently. How about you? Is everyone well on your side?"
+    }
+  ]
+}

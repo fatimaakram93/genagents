@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/bb6bbc6c-c85f-4468-8016-903c5e964e33",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_002/e37f950a-7653-42b7-81e5-b59d0c96e31f",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_002/e37f950a-7653-42b7-81e5-b59d0c96e31f"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 15,
+      "old": "Interviewer: What other experiences with law enforcement stand out in your mind?\n\nAgent: I remember being pulled over for a minor traffic violation, and the officer was quite respectful and courteous. It stood out because I've heard mixed stories, but my personal experience was positive.",
+      "new": "Interviewer: What other experiences with law enforcement stand out in your mind?\n\nAgent: I remember being pulled over for a minor traffic violation; the officer was respectful and courteous, which made the whole encounter quick and hassle-free for me. It stuck with me because, despite hearing mixed stories, my priority was that I walked away without trouble.",
+      "old_answer": "I remember being pulled over for a minor traffic violation, and the officer was quite respectful and courteous. It stood out because I've heard mixed stories, but my personal experience was positive.",
+      "new_answer": "I remember being pulled over for a minor traffic violation; the officer was respectful and courteous, which made the whole encounter quick and hassle-free for me. It stuck with me because, despite hearing mixed stories, my priority was that I walked away without trouble."
+    }
+  ]
+}

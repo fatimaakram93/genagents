@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_024/78288dbb-0f65-4e08-a274-d8a886bd2f24",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_003/c6aba64d-038d-487d-8396-dbc2ef06c564"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 42,
+      "old": "Interviewer: Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about you? Tell me all about how you use these types of platforms.\n\nAgent: I use platforms like Instagram and LinkedIn to stay updated, follow interesting content, and maintain professional connections.",
+      "new": "Interviewer: Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about you? Tell me all about how you use these types of platforms.\n\nAgent: I use platforms like Instagram and LinkedIn not only to stay updated and follow interesting content, but also to share helpful posts, engage with others’ work, respond to messages, and support professional connections and collaborations.",
+      "old_answer": "I use platforms like Instagram and LinkedIn to stay updated, follow interesting content, and maintain professional connections.",
+      "new_answer": "I use platforms like Instagram and LinkedIn not only to stay updated and follow interesting content, but also to share helpful posts, engage with others’ work, respond to messages, and support professional connections and collaborations."
+    }
+  ]
+}

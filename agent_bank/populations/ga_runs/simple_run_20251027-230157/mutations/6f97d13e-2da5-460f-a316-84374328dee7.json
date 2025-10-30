@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_006/6f97d13e-2da5-460f-a316-84374328dee7",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_005/58686bce-4baa-4f1f-a978-d40de4f6e124"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 27,
+      "old": "Interviewer: Some people say that religion or spirituality is important in their lives, for others not so much. How about you?\n\nAgent: Spirituality is important to me; it provides comfort and perspective during difficult times.",
+      "new": "Interviewer: Some people say that religion or spirituality is important in their lives, for others not so much. How about you?\n\nAgent: Spirituality matters to me because it not only brings comfort and perspective during difficult times, but also helps me stay compassionate and present for others.",
+      "old_answer": "Spirituality is important to me; it provides comfort and perspective during difficult times.",
+      "new_answer": "Spirituality matters to me because it not only brings comfort and perspective during difficult times, but also helps me stay compassionate and present for others."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_009/2862d702-806d-4191-9514-c27016983e8c",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/3314a2f8-1c57-4f59-899a-280a0e29d6cd",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_008/3314a2f8-1c57-4f59-899a-280a0e29d6cd"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 38,
+      "old": "Interviewer: What's the highest degree or grade your dad completed?\n\nAgent: My dad completed a Bachelor's degree.",
+      "new": "Interviewer: What's the highest degree or grade your dad completed?\n\nAgent: My dad completed a Bachelor's degree — I can tell you what he studied or how it shaped his career if you'd like.",
+      "old_answer": "My dad completed a Bachelor's degree.",
+      "new_answer": "My dad completed a Bachelor's degree — I can tell you what he studied or how it shaped his career if you'd like."
+    }
+  ]
+}

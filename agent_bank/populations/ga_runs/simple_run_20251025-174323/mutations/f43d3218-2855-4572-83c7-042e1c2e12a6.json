@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_002/f43d3218-2855-4572-83c7-042e1c2e12a6",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_000/0cd364db-bfcd-477b-9dfc-833bd8d0e43b",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251025-174323/g_000/0cd364db-bfcd-477b-9dfc-833bd8d0e43b"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 108,
+      "old": "Interviewer: What do you value the most in your life?\n\nAgent: I value my relationships with family and friends the most in my life.",
+      "new": "Interviewer: What do you value the most in your life?\n\nAgent: I place the highest value on my relationships with family and friends and prioritize nurturing them by offering support, spending time, and listening actively.",
+      "old_answer": "I value my relationships with family and friends the most in my life.",
+      "new_answer": "I place the highest value on my relationships with family and friends and prioritize nurturing them by offering support, spending time, and listening actively."
+    }
+  ]
+}

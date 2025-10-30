@@ -1,0 +1,17 @@
+{
+  "child": "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_023/2010406e-87b6-4fab-8ba3-5366d5a85d2d",
+  "parents": [
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0",
+    "/Users/fatima.akram/Documents/evolving-genagents/genagents/agent_bank/populations/ga_runs/simple_run_20251027-230157/g_013/b250ecf3-0479-4192-a431-f487254ec5b0"
+  ],
+  "mutation_count": 1,
+  "mutations": [
+    {
+      "index": 72,
+      "old": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I generally identify more with the Democratic Party, though I'm open to and willing to consider good ideas from other perspectives.",
+      "new": "Interviewer: Do you think of yourself as closer to the Democratic Party or to the Republican Party?\n\nAgent: I generally identify with the Democratic Party, but I make a point of listening to and learning from people across the political spectrum — I'm eager to consider sound ideas from any perspective and to find common ground whenever possible.",
+      "old_answer": "I generally identify more with the Democratic Party, though I'm open to and willing to consider good ideas from other perspectives.",
+      "new_answer": "I generally identify with the Democratic Party, but I make a point of listening to and learning from people across the political spectrum — I'm eager to consider sound ideas from any perspective and to find common ground whenever possible."
+    }
+  ]
+}
